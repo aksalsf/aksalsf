@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, call me Aksal! 👋
 
 <!--
 **aksalsf/aksalsf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
