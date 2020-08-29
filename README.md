@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently studying on Universitas Sebelas Maret
 - 🌱 I’m currently learning Javascript
-- 👯 I’m looking to collaborate on [BersamaBisaID](https://github.com/bersamabisaid)
+- 👯 I’m currently working on [BersamaBisaID](https://github.com/bersamabisaid)
 - 📫 Reach me by email on aksal.sf@gmail.com
 
 ![Aksal's github stats](https://github-readme-stats.vercel.app/api?username=aksalsf&show_icons=true)
