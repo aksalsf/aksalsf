@@ -1,10 +1,8 @@
-# Aksal SF, Front End Web Development
+# Aksal SF | Front End Web Development
 > Who love to solve your ugly problems using beautiful design, word, and code.
 
 - 🔭 I’m currently studying on Universitas Sebelas Maret
-- 🌱 I’m currently learning
-  --Javascript
-  --Wordpress Theme Development
+- 🌱 I’m currently learning Javascript and Wordpress Theme Development
 - 👯 I’m currently working on [BersamaBisaID](https://github.com/bersamabisaid)
 - 📫 Reach me by email on aksal.sf@gmail.com
 
