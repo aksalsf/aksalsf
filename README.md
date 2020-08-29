@@ -1,7 +1,8 @@
-# Aksal SF | Front End Web Development
 ![Profile views](https://gpvc.arturio.dev/aksalsf)
-> Who love to solve your ugly problems using beautiful design, word, and code.
+# Hey, pleased to meet you 😊
+Glad to see you there, my name is Aksal. Someone who love to solve your ugly problems using beautiful design, word, and code.
 
+## Some trivias about me
 - 🔭 I’m currently studying on Universitas Sebelas Maret
 - 🌱 I’m currently learning Javascript and Wordpress Theme Development
 - 👯 I’m currently working on [BersamaBisaID](https://github.com/bersamabisaid)
@@ -9,18 +10,3 @@
 
 ![Aksal's github stats](https://github-readme-stats.vercel.app/api?username=aksalsf&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aksalsf&layout=compact)
-
-<!--
-**aksalsf/aksalsf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
