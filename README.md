@@ -13,15 +13,7 @@ Glad to see you there, my name is Aksal. Someone who love to solve your ugly pro
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aksalsf&layout=compact)
 
 ### Pinned Repos
-<a href="https://github.com/aksalsf/pesona-indonesia">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=aksalsf&repo=pesona-indonesia" />
-</a>
-<a href="https://github.com/aksalsf/banyumas-bae">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=aksalsf&repo=banyumas-bae" />
-</a>
-<a href="https://github.com/aksalsf/bluebem">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=aksalsf&repo=bluebem" />
-</a>
-<a href="https://github.com/aksalsf/mahasuramuda">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=aksalsf&repo=mahasuramuda" />
-</a>
+[![Pesona Indonesia](https://github-readme-stats.vercel.app/api/pin/?username=aksalsf&repo=pesona-indonesia)](https://github-readme-stats.vercel.app/api/pin/?username=aksalsf&repo=pesona-indonesia)
+[![Banyumas Bae](https://github-readme-stats.vercel.app/api/pin/?username=aksalsf&repo=banyumas-bae)](https://github-readme-stats.vercel.app/api/pin/?username=aksalsf&repo=banyumas-bae)
+[![Bluebem](https://github-readme-stats.vercel.app/api/pin/?username=aksalsf&repo=bluebem)](https://github-readme-stats.vercel.app/api/pin/?username=aksalsf&repo=bluebem)
+[![Mahasura Muda](https://github-readme-stats.vercel.app/api/pin/?username=aksalsf&repo=mahasuramuda)](https://github-readme-stats.vercel.app/api/pin/?username=aksalsf&repo=mahasuramuda)
