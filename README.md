@@ -1,7 +1,12 @@
 ### Hi, call me Aksal! 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aksalsf&layout=compact)
+- 🔭 I’m currently studying on Universitas Sebelas Maret
+- 🌱 I’m currently learning Javascript
+- 👯 I’m looking to collaborate on [BersamaBisaID](https://github.com/bersamabisaid)
+- 📫 Reach me by email on aksal.sf@gmail.com
+
 ![Aksal's github stats](https://github-readme-stats.vercel.app/api?username=aksalsf&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aksalsf&layout=compact)
 
 <!--
 **aksalsf/aksalsf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
