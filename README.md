@@ -1,3 +1,4 @@
+# Who love to solve your ugly problems using beautiful design, word, and code.
 ### Hi, call me Aksal! 👋
 
 - 🔭 I’m currently studying on Universitas Sebelas Maret
