@@ -1,4 +1,5 @@
 # Aksal SF | Front End Web Development
+![Profile views](https://gpvc.arturio.dev/aksalsf)
 > Who love to solve your ugly problems using beautiful design, word, and code.
 
 - 🔭 I’m currently studying on Universitas Sebelas Maret
