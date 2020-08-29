@@ -3,8 +3,8 @@
 
 - 🔭 I’m currently studying on Universitas Sebelas Maret
 - 🌱 I’m currently learning
-⋅⋅*Javascript
-⋅⋅*Wordpress Theme Development
+  --Javascript
+  --Wordpress Theme Development
 - 👯 I’m currently working on [BersamaBisaID](https://github.com/bersamabisaid)
 - 📫 Reach me by email on aksal.sf@gmail.com
 
