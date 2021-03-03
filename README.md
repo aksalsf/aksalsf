@@ -1,6 +1,7 @@
 ![Profile views](https://gpvc.arturio.dev/aksalsf)
 # Hey, pleased to meet you 😊
-Glad to see you there, my name is Aksal. Someone who love to solve your ugly problems using beautiful design, word, and code.
+Glad to see you there, my name is Aksal.
+Do u know? Code is simple, like as create the world!
 
 ### Some trivias about me
 - 🔭 I’m currently studying on Universitas Sebelas Maret
