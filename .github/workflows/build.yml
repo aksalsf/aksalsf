@@ -1,14 +1,12 @@
 name: Build README
 
 on:
-  push:
-  workflow_dispatch:
   schedule:
-    - cron:  '15 1,5,6,11,13,16,18,21 * * *'
+    - cron:  '25 1,5,6,11,13,16,18,21 * * *'
 
 jobs:
   build:
-    runs-on: macOS-latest
+    runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
     - name: Use Node.js ${{ matrix.node-version }}
@@ -28,5 +26,5 @@ jobs:
         git diff
         git config --global user.email "aksal.sf@gmail.com"
         git config --global user.name "Aksal"
-        git commit -m "Update README" -a || echo "No changes to commit"
+        git commit -m "Update README.md ⚡" -a || echo "No changes to commit"
         git push
