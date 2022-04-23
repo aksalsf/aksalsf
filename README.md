@@ -1,5 +1,4 @@
-### Good night.<br>
-Hello, I'm Aksal.<br>
-I am a developer. I solve problems, but sometimes I also create them.<br>
+### Nite nite 😴<br>
+Hello, I'm Aksal. I am a developer. I solve problems, but sometimes I also create them. I love code until only me who can understand her. Mostly I code in Javascript (React, Vue) and PHP (Laravel, CodeIgniter). I am also a big fan of Windows until I met Linux 😌<br>
 Nice to meet you!<br>
-<blockquote> Note: Time to sleep! Have a nice dream! </blockquote><br>
+Note: Have a nice dream!<br>
