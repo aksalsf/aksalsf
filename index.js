@@ -10,13 +10,13 @@ const timezoneOffset = 7;
 (() => {
 
   const greetings = generateGreetings(getCurrentTime());
-  const introduction = "I am a developer. I solve problems, but sometimes I also create them. I love code until only me who can understand her. Mostly I code in Javascript (React, Vue) and PHP (Laravel, CodeIgniter). I am also a big fan of Windows until I met Linux 😌";
-  const advise = generateAdvise(getCurrentTime());
+  const introduction = `I am a software engineer from [Indonesia](https://goo.gl/maps/qXPMNcNeYzK8VPiaA) 🇮🇩. I solve problems, but sometimes I also create them. ***I love code until only me who can understand her***. Mostly I code in Javascript (React ${getIcon("react")}, Vue) and PHP (Laravel, CodeIgniter). I am also a big fan of Windows until I met Linux 😆.`;
+  const tweet = tweets(getCurrentTime());
 
   const text = `### ${greetings}
-    Hello, I'm Aksal. ${introduction}
-    Nice to meet you!
-    Note: ${advise}
+    Hello, I'm Aksal. ${introduction} Nice to meet you!
+
+    💡 _${tweet}_
   `;
 
   const result = md.renderInline(text);
@@ -52,7 +52,7 @@ function generateGreetings(time) {
   return goodNight;
 }
 
-function generateAdvise(time) {
+function tweets(time) {
   if (time >= 4 && time < 8) {
     return "Even though the morning air is good, but it is better to not open your windows.";
   }
@@ -72,4 +72,8 @@ function generateAdvise(time) {
     return "Take a good book to bed with you—books do not snore.";
   }
   return "Have a nice dream!";
+}
+
+function getIcon(slug, height=24, width=24) {
+  return `<img height="${height}" width="${width}" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/${slug}.svg" />  `
 }
