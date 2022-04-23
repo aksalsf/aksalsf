@@ -10,7 +10,7 @@ const timezoneOffset = 7;
 (() => {
 
   const greetings = generateGreetings(getCurrentTime());
-  const introduction = `I am a software engineer from [Indonesia](https://goo.gl/maps/qXPMNcNeYzK8VPiaA) 🇮🇩. I solve problems, but sometimes I also create them. I love code until only me who can understand her. Mostly I code in Javascript (React, Vue) and PHP (Laravel, CodeIgniter). I am also a big fan of Windows until I met Linux 😆.`;
+  const introduction = `I am a software engineer from Indonesia 🇮🇩. I solve problems, but sometimes I also create them. I love code until only me who can understand her. Mostly I code in Javascript (React, Vue) and PHP (Laravel, CodeIgniter). I am also a big fan of Windows until I met Linux 😆.`;
   const tweet = tweets(getCurrentTime());
 
   const text = `### ${greetings}
