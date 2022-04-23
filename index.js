@@ -1,5 +1,5 @@
 const md = require("markdown-it")({
-  html: true, // Enable HTML tags in source
+  html: false, // Enable HTML tags in source
   breaks: true, // Convert '\n' in paragraphs into <br>
   linkify: true, // Autoconvert URL-like text to links
 });
@@ -14,7 +14,7 @@ const timezone = "Asia/Jakarta";
   const introduction = "I am a developer. I solve problems, but sometimes I also create them.";
   const advise = generateAdvise(getCurrentTime());
 
-  const text = `### ${greetings}. Hello, I'm Aksal.
+  const text = `${greetings}. Hello, I'm Aksal.
     ${introduction}
     Nice to meet you!
     Note: ${advise}
