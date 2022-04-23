@@ -10,14 +10,13 @@ const timezoneOffset = 7;
 (() => {
 
   const greetings = generateGreetings(getCurrentTime());
-  const introduction = "I am a developer. I solve problems, but sometimes I also create them.";
+  const introduction = "I am a developer. I solve problems, but sometimes I also create them. I love code until only me who can understand her. Mostly I code in Javascript (React, Vue) and PHP (Laravel, CodeIgniter). I am also a big fan of Windows until I met Linux 😌";
   const advise = generateAdvise(getCurrentTime());
 
-  const text = `### ${greetings}.
-    Hello, I'm Aksal.
-    ${introduction}
+  const text = `### ${greetings}
+    Hello, I'm Aksal. ${introduction}
     Nice to meet you!
-    <blockquote> Note: ${advise} </blockquote>
+    Note: ${advise}
   `;
 
   const result = md.renderInline(text);
@@ -36,10 +35,10 @@ function getCurrentTime() {
 }
 
 function generateGreetings(time) {
-  const goodMorning = "Good morning";
-  const goodAfternoon = "Good afternoon";
-  const goodEvening = "Good evening";
-  const goodNight = "Good night";
+  const goodMorning = "Good morning, it is. 😸";
+  const goodAfternoon = "Good afternoon 👋";
+  const goodEvening = "Good evening 👋";
+  const goodNight = "Nite nite 😴";
 
   if (time >= 4 && time < 12) {
     return goodMorning;
@@ -72,5 +71,5 @@ function generateAdvise(time) {
   if (time >= 20 && time < 23) {
     return "Take a good book to bed with you—books do not snore.";
   }
-  return "Time to sleep! Have a nice dream!";
+  return "Have a nice dream!";
 }
