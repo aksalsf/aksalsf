@@ -14,17 +14,13 @@ const timezone = "Asia/Jakarta";
   const introduction = "I am a developer. I solve problems, but sometimes I also create them.";
   const advise = generateAdvise(getCurrentTime());
 
-  const monaLoading = `<img width="48" src="https://github.githubassets.com/images/mona-loading-default.gif">`
+  const text = `### ${greetings}. Hello, I'm Aksal.
+    ${introduction}
+    Nice to meet you!
+    Note: ${advise}
+  `;
 
-  const text = `<p align="center">${monaLoading}
-    <sub>${greetings},</sub>
-    <sub>Hello, I'm Aksal.</sub>
-    <sub>${introduction}</sub>
-    <sub>Nice to meet you!</sub>
-    <sub>Note: ${advise}</sub>
-    </p>`;
-
-  const result = md.renderInline(text);
+  const result = md.render(text);
 
   fs.writeFile("README.md", result, function (err) {
     if (err) return console.log(err);
