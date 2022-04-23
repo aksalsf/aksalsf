@@ -30,9 +30,12 @@ const timezoneOffset = 7;
 })();
 
 function getCurrentTime() {
-  const currentTime = new Date()
-    .getHours();
-  return currentTime + timezoneOffset;
+  const currentTime = new Date().getHours() + timezoneOffset;
+  // check if result >= 24
+  if (currentTime >= 24) {
+    return Math.abs(24 - currentTime);
+  }
+  return currentTime;
 }
 
 function generateGreetings(time) {
