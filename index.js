@@ -20,10 +20,11 @@ const timezone = "Asia/Jakarta";
     Note: ${advise}
   `;
 
-  const result = md.render(text);
+  const result = md.render("```\n" + text + "```\n");
 
   fs.writeFile("README.md", result, function (err) {
     if (err) return console.log(err);
+    console.log(getCurrentTime() + ": README.md has been generated.");
     console.log(`${result} > README.md`);
   });
 })();
