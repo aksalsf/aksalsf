@@ -10,13 +10,14 @@ const timezoneOffset = 7;
 (() => {
 
   const greetings = generateGreetings(getCurrentTime());
-  const introduction = `I am a software engineer from [Indonesia](https://goo.gl/maps/qXPMNcNeYzK8VPiaA) 🇮🇩. I solve problems, but sometimes I also create them. ***I love code until only me who can understand her***. Mostly I code in Javascript (React ${getIcon("react")}, Vue) and PHP (Laravel, CodeIgniter). I am also a big fan of Windows until I met Linux 😆.`;
+  const introduction = `I am a software engineer from [Indonesia](https://goo.gl/maps/qXPMNcNeYzK8VPiaA) 🇮🇩. I solve problems, but sometimes I also create them. I love code until only me who can understand her. Mostly I code in Javascript (React, Vue) and PHP (Laravel, CodeIgniter). I am also a big fan of Windows until I met Linux 😆.`;
   const tweet = tweets(getCurrentTime());
 
   const text = `### ${greetings}
-    Hello, I'm Aksal. ${introduction} Nice to meet you!
+    Hello, I'm Aksal. ${introduction}
+    Nice to meet you!
 
-    💡 _${tweet}_
+    💡 Tip: ${tweet}
   `;
 
   const result = md.renderInline(text);
@@ -72,8 +73,4 @@ function tweets(time) {
     return "Take a good book to bed with you—books do not snore.";
   }
   return "Have a nice dream!";
-}
-
-function getIcon(slug, height=24, width=24) {
-  return `<img height="${height}" width="${width}" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/${slug}.svg" />  `
 }
