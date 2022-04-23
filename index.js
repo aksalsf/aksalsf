@@ -1,12 +1,11 @@
 const md = require("markdown-it")({
-  html: false, // Enable HTML tags in source
+  html: true, // Enable HTML tags in source
   breaks: true, // Convert '\n' in paragraphs into <br>
   linkify: true, // Autoconvert URL-like text to links
 });
 const fs = require("fs");
 
-const locale = "id-ID";
-const timezone = "Asia/Jakarta";
+const timezoneOffset = 7;
 
 (() => {
 
@@ -14,26 +13,26 @@ const timezone = "Asia/Jakarta";
   const introduction = "I am a developer. I solve problems, but sometimes I also create them.";
   const advise = generateAdvise(getCurrentTime());
 
-  const text = `${greetings}. Hello, I'm Aksal.
+  const text = `### ${greetings}.
+    Hello, I'm Aksal.
     ${introduction}
     Nice to meet you!
-    Note: ${advise}
+    <blockquote> Note: ${advise} </blockquote>
   `;
 
-  const result = md.render("```\n" + text + "```\n");
+  const result = md.renderInline(text);
 
   fs.writeFile("README.md", result, function (err) {
     if (err) return console.log(err);
-    console.log(getCurrentTime() + ": README.md has been generated.");
+    console.log("[" + getCurrentTime() + "]: README.md has been generated.");
     console.log(`${result} > README.md`);
   });
 })();
 
 function getCurrentTime() {
   const currentTime = new Date()
-    .getHours()
-    .toLocaleString(locale, { timezone });
-  return currentTime;
+    .getHours();
+  return currentTime + timezoneOffset;
 }
 
 function generateGreetings(time) {
