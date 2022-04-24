@@ -6,4 +6,4 @@ My code is like a girl (perfect and beautiful) so I'm always found that only me 
 Mostly I code in Javascript (React, Vue) and PHP (Laravel, CodeIgniter). I'm also a big fan of Windows until I met Linux 😆.<br>
 <br>
 Nice to meet you!<br>
-💡 Tip: Even though the morning air is good, but it is better to not open your windows.<br>
+💡 Tip: Have a good day!<br>
