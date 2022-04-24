@@ -1,16 +1,17 @@
+const fs = require("fs");
 const md = require("markdown-it")({
   html: true, // Enable HTML tags in source
   breaks: true, // Convert '\n' in paragraphs into <br>
   linkify: true, // Autoconvert URL-like text to links
 });
-const fs = require("fs");
 
-const timezoneOffset = 7;
+const TIMEZONE_OFFSET = 7;
 
 (() => {
 
-  const greetings = generateGreetings(getCurrentTime());
-  const tweet = tweets(getCurrentTime());
+  const now = getCurrentTime();
+  const greetings = generateGreetings(now);
+  const tip = getTips(now);
 
   const text = `### ${greetings}
     Hi there 👋 I'm Aksal. I'm a software engineer from 🇮🇩 Indonesia working to solve problems, but sometimes also create them.
@@ -20,25 +21,25 @@ const timezoneOffset = 7;
     Mostly I code in Javascript (React, Vue) and PHP (Laravel, CodeIgniter). I'm also a big fan of Windows until I met Linux 😆.
 
     Nice to meet you!
-    💡 Tip: ${tweet}
+    💡 Tip: ${tip}
   `;
 
-  const result = md.renderInline(text);
+  const content = md.renderInline(text);
+  generateFile(content);
 
-  fs.writeFile("README.md", result, function (err) {
-    if (err) return console.log(err);
-    console.log("[" + getCurrentTime() + "]: README.md has been generated.");
-    console.log(`${result} > README.md`);
-  });
+  /* Timestamp */
+  console.log(`⏳ Running at ${now.toString().padStart(2, "0")}:00 GMT+7`);
 })();
 
 function getCurrentTime() {
-  const currentTime = new Date().getHours() + timezoneOffset;
-  // check if result >= 24
-  if (currentTime >= 24) {
-    return Math.abs(24 - currentTime);
+  const now = new Date();
+  now.setHours(now.getHours() + TIMEZONE_OFFSET);
+  const hour = now.getHours();
+  // check if now >= 24
+  if (hour >= 24) {
+    return Math.abs(24 - hour);
   }
-  return currentTime;
+  return hour;
 }
 
 function generateGreetings(time) {
@@ -59,7 +60,7 @@ function generateGreetings(time) {
   return goodNight;
 }
 
-function tweets(time) {
+function getTips(time) {
   if (time >= 4 && time < 8) {
     return "Even though the morning air is good, but it is better to not open your windows.";
   }
@@ -79,4 +80,12 @@ function tweets(time) {
     return "Take a good book to bed with you—books do not snore.";
   }
   return "Have a nice dream!";
+}
+
+function generateFile(contents) {
+  const targetFile = "README.md";
+  fs.writeFile(targetFile, contents, function (err) {
+    if (err) return console.log(`⛔ [FAILED]: ${err}`);
+    console.log("✅ [SUCCESS]: README.md has been generated.");
+  });
 }
