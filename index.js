@@ -10,13 +10,16 @@ const timezoneOffset = 7;
 (() => {
 
   const greetings = generateGreetings(getCurrentTime());
-  const introduction = `I am a software engineer from Indonesia 🇮🇩. I solve problems, but sometimes I also create them. I love code until only me who can understand her. Mostly I code in Javascript (React, Vue) and PHP (Laravel, CodeIgniter). I am also a big fan of Windows until I met Linux 😆.`;
   const tweet = tweets(getCurrentTime());
 
   const text = `### ${greetings}
-    Hello, I'm Aksal. ${introduction}
-    Nice to meet you!
+    Hi there 👋 I'm Aksal. I'm a software engineer from 🇮🇩 Indonesia working to solve problems, but sometimes also create them.
 
+    My code is like a girl (perfect and beautiful) so I'm always found that only me who can understand her. Wkwk, just kidding.
+
+    Mostly I code in Javascript (React, Vue) and PHP (Laravel, CodeIgniter). I'm also a big fan of Windows until I met Linux 😆.
+
+    Nice to meet you!
     💡 Tip: ${tweet}
   `;
 
