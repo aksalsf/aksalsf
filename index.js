@@ -22,7 +22,6 @@ const TIMEZONE_OFFSET = 7;
     Mostly I code in Javascript (React, Vue) and PHP (Laravel, CodeIgniter). I'm also a big fan of Windows until I met Linux 😆.
 
     Nice to meet you!
-
     ${snake}
 
     💡 Tip: ${tip}
