@@ -9,9 +9,10 @@ const TIMEZONE_OFFSET = 7;
 
 (() => {
 
-  const now = getCurrentTime();
+  const [now, minute] = getCurrentTime();
   const greetings = generateGreetings(now);
   const tip = getTips(now);
+  const snake = `![github contribution grid snake animation](https://raw.githubusercontent.com/aksalsf/aksalsf/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/aksalsf/aksalsf/output/github-contribution-grid-snake.svg#gh-light-mode-only)`;
 
   const text = `### ${greetings}
     Hi there 👋 I'm Aksal. I'm a software engineer from 🇮🇩 Indonesia working to solve problems, but sometimes also create them.
@@ -21,6 +22,9 @@ const TIMEZONE_OFFSET = 7;
     Mostly I code in Javascript (React, Vue) and PHP (Laravel, CodeIgniter). I'm also a big fan of Windows until I met Linux 😆.
 
     Nice to meet you!
+
+    ${snake}
+
     💡 Tip: ${tip}
   `;
 
@@ -28,18 +32,19 @@ const TIMEZONE_OFFSET = 7;
   generateFile(content);
 
   /* Timestamp */
-  console.log(`⏳ Running at ${now.toString().padStart(2, "0")}:00 GMT+7`);
+  console.log(`⏳ Running at ${now.toString().padStart(2, "0")}:${minute} GMT+7`);
 })();
 
 function getCurrentTime() {
   const now = new Date();
   now.setHours(now.getHours() + TIMEZONE_OFFSET);
   const hour = now.getHours();
+  const minute = now.getMinutes();
   // check if now >= 24
   if (hour >= 24) {
     return Math.abs(24 - hour);
   }
-  return hour;
+  return [hour, minute];
 }
 
 function generateGreetings(time) {
