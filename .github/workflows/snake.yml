@@ -1,4 +1,4 @@
-name: snake animation
+name: Call the Snake
 
 on:
   # allows to manually run the job at any time
@@ -8,8 +8,6 @@ on:
   push:
     branches:
     - master
-    
-  
 
 jobs:
   generate:
