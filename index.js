@@ -58,7 +58,7 @@ function generateGreetings(time) {
   if (time >= 12 && time < 16) {
     return goodAfternoon;
   }
-  if (time >= 16 && time < 18) {
+  if (time >= 16 && time < 23) {
     return goodEvening;
   }
   return goodNight;
