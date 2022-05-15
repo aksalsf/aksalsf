@@ -8,4 +8,4 @@ Mostly I code in Javascript (React, Vue) and PHP (Laravel, CodeIgniter). I'm als
 Nice to meet you!<br>
 <img src="https://raw.githubusercontent.com/aksalsf/aksalsf/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="github contribution grid snake animation"><img src="https://raw.githubusercontent.com/aksalsf/aksalsf/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="github contribution grid snake animation"><br>
 <br>
-💡 Tip: I know you are a great programmer, but please don't eat lunch alone.<br>
+💡 Tip: Great. Now, please write your code and make sure only you know what the hell is this.<br>
