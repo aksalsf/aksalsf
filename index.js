@@ -66,16 +66,16 @@ function generateGreetings(time) {
 
 function getTips(time) {
   if (time >= 4 && time < 8) {
-    return "Even though the morning air is good, but it is better to not open your windows.";
+    return "Even though the morning air is good, it is better to not open your Windows.";
   }
   if (time >= 8 && time < 12) {
-    return "Have a good day!";
+    return "Wanna advice? Don't start your day with any meeting. Start with code!";
   }
   if (time >= 12 && time < 13) {
-    return "I know you are a great programmer, but please don't eat lunch alone.";
+    return "A good programmer always collaborating, even when having lunch!";
   }
   if (time >= 13 && time < 18) {
-    return "Great. Now, please write your code and make sure only you know what the hell is this.";
+    return "Don't be too fond of keeping bugs, Buddy. Release it~";
   }
   if (time >= 18 && time < 20) {
     return "Time to home!";
