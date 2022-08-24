@@ -27,5 +27,5 @@ jobs:
         git diff
         git config --global user.email "aksal.sf@gmail.com"
         git config --global user.name "Aksal"
-        git commit -m "⚡ Update README.md" -a || echo "No changes to commit"
+        git commit -m "docs(readme): 📝 update tips and greeting" -a || echo "No changes to commit"
         git push
