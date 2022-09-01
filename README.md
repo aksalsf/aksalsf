@@ -8,7 +8,8 @@ Mostly I code in Javascript (React, Vue) and PHP (Laravel, CodeIgniter). I'm als
 I'm also writing some stories on Medium.<br>
 - <a href="https://aksalsf.medium.com/bagaimana-saya-mendapatkan-lencana-verified-untuk-commit-saya-di-github-4093994452e9?source=rss-bd0cf8323376------2">Bagaimana Saya Mendapatkan Lencana Verified untuk Commit Saya di GitHub</a><br>
 <br>
-Nice to meet you!<br>
+<img align="left" src="/left-metrics.svg" alt="Metrics" width="400" /><br>
+<img align="right" src="/right-metrics.svg" alt="Metrics" width="400" /><br>
 <img src="https://raw.githubusercontent.com/aksalsf/aksalsf/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="github contribution grid snake animation"><img src="https://raw.githubusercontent.com/aksalsf/aksalsf/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="github contribution grid snake animation"><br>
 <br>
 💡 Tip: Wanna advice? Don't start your day with any meeting. Start with code!<br>
