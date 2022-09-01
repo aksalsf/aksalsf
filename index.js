@@ -29,18 +29,16 @@ const TIMEZONE_OFFSET = 7;
     My code is like a girl (perfect and beautiful), so, I'm always found that only me who can understand her. Wkwk, just kidding.
 
     Mostly I code in Javascript (React, Vue) and PHP (Laravel, CodeIgniter). I'm also a big fan of Windows until I met Linux 😆.
-
-    ### Metrics
-    <img align="left" src="/left-metrics.svg" alt="Metrics" width="400" />
-    <img align="right" src="/right-metrics.svg" alt="Metrics" width="400" />
-    
-    ### I'm also writing some stories on Medium. 
+    ### I'm also writing some stories on Medium
     ${mediumPosts}
-
-    ${snake}
-    <img align="left" src="/people-metrics.svg" alt="Metrics" width="400" />
-    <img align="right" src="/achievement-metrics.svg" alt="Metrics" width="400" />
-
+    ### Metrics
+    <img align="left" src="/left-metrics.svg" alt="Metrics" width="390" />
+    <img align="right" src="/right-metrics.svg" alt="Metrics" width="390" />
+    <img align="left" src="/people-metrics.svg" alt="Metrics" width="390" />
+    <img align="right" src="/achievement-metrics.svg" alt="Metrics" width="390" />
+    <p align="center">
+      ${snake}
+    </p>
     💡 Tip: ${tip}
   `;
 
