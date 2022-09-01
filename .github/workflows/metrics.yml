@@ -14,12 +14,16 @@ jobs:
     permissions:
       contents: write
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
       - name: Left Metrics
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: left-metrics.svg
+          output_action: none
           run: |
             set +e
             git checkout master
@@ -67,6 +71,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: right-metrics.svg
+          output_action: none
           run: |
             set +e
             git checkout master
@@ -112,6 +117,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: achievement-metrics.svg
+          output_action: none
           run: |
             set +e
             git checkout master
@@ -138,6 +144,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: people-metrics.svg
+          output_action: none
           run: |
             set +e
             git checkout master
