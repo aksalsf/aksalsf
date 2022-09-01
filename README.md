@@ -14,4 +14,4 @@ Mostly I code in Javascript (React, Vue) and PHP (Laravel, CodeIgniter). I'm als
 <p align="center"><br>
 <img src="https://raw.githubusercontent.com/aksalsf/aksalsf/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="github contribution grid snake animation"><img src="https://raw.githubusercontent.com/aksalsf/aksalsf/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="github contribution grid snake animation"><br>
 </p><br>
-💡 Tip: Time to home!<br>
+💡 Tip: Take a good book to bed with you—books do not snore.<br>
