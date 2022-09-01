@@ -47,12 +47,6 @@ jobs:
           plugin_lines_sections: base
           plugin_stars: yes
           plugin_stars_limit: 4
-          plugin_activity: yes
-          plugin_activity_days: 7
-          plugin_activity_filter: all
-          plugin_activity_limit: 5
-          plugin_activity_load: 300
-          plugin_activity_visibility: all
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_topics: yes

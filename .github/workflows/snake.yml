@@ -1,4 +1,4 @@
-name: Call the Snake
+name: Snake Game
 
 on:
   # allows to manually run the job at any time
