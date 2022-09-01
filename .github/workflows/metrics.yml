@@ -29,12 +29,7 @@ jobs:
           base: header, activity, community, repositories, metadata
           base_hireable: yes
           base_indepth: yes
-          config_padding: 10
           config_timezone: Asia/Jakarta
-          plugin_followup: yes
-          plugin_followup_archived: yes
-          plugin_followup_indepth: yes
-          plugin_followup_sections: repositories
           plugin_introduction: yes
           plugin_introduction_title: yes
           plugin_languages: yes
@@ -80,7 +75,6 @@ jobs:
           user: aksalsf
           template: classic
           base: ""
-          config_padding: 10
           config_timezone: Asia/Jakarta
           plugin_achievements: yes
           plugin_achievements_display: compact
