@@ -33,7 +33,8 @@ const TIMEZONE_OFFSET = 7;
     I'm also writing some stories on Medium. 
     ${mediumPosts}
 
-    Nice to meet you!
+    <img align="left" src="/left-metrics.svg" alt="Metrics" width="400" />
+    <img align="right" src="/right-metrics.svg" alt="Metrics" width="400" />
     ${snake}
 
     💡 Tip: ${tip}
