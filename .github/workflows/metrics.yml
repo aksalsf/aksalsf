@@ -20,8 +20,15 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: left-metrics.svg
-          output_action: commit
-          committer_message: "chore: update left metrics"
+          run: |
+            set +e
+            git checkout master
+            git config user.name "꧋ꦄꦏ꧀ꦱꦭ꧀"
+            git config user.email aksalsf@users.noreply.github.com
+            sudo mv /metrics_renders/* ./
+            git add left-metrics.svg
+            git commit -m "chore: update left metrics"
+            git push
 
           # Options
           user: aksalsf
@@ -60,8 +67,15 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: right-metrics.svg
-          output_action: commit
-          committer_message: "chore: update right metrics"
+          run: |
+            set +e
+            git checkout master
+            git config user.name "꧋ꦄꦏ꧀ꦱꦭ꧀"
+            git config user.email aksalsf@users.noreply.github.com
+            sudo mv /metrics_renders/* ./
+            git add right-metrics.svg
+            git commit -m "chore: update right metrics"
+            git push
           
           # Options
           user: aksalsf
@@ -98,8 +112,15 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: achievement-metrics.svg
-          output_action: commit
-          committer_message: "chore: update achievement metrics"
+          run: |
+            set +e
+            git checkout master
+            git config user.name "꧋ꦄꦏ꧀ꦱꦭ꧀"
+            git config user.email aksalsf@users.noreply.github.com
+            sudo mv /metrics_renders/* ./
+            git add achievement-metrics.svg
+            git commit -m "chore: update achievement metrics"
+            git push
           
           # Options
           user: aksalsf
@@ -117,8 +138,15 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: people-metrics.svg
-          output_action: commit
-          committer_message: "chore: update people metrics"
+          run: |
+            set +e
+            git checkout master
+            git config user.name "꧋ꦄꦏ꧀ꦱꦭ꧀"
+            git config user.email aksalsf@users.noreply.github.com
+            sudo mv /metrics_renders/* ./
+            git add people-metrics.svg
+            git commit -m "chore: update people metrics"
+            git push
           
           # Options
           user: aksalsf
