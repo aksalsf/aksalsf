@@ -21,7 +21,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: left-metrics.svg
           output_action: commit
-          committer_branch: metrics
           committer_message: "chore: update metrics"
 
           # Options
@@ -75,7 +74,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: right-metrics.svg
           output_action: commit
-          committer_branch: metrics
           committer_message: "chore: update metrics"
           
           # Options
