@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/aksalsf/aksalsf#readme",
   "dependencies": {
-    "markdown-it": "^13.0.0"
+    "markdown-it": "^13.0.0",
+    "rss-to-json": "^2.1.0"
   }
 }

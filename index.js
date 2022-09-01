@@ -4,22 +4,34 @@ const md = require("markdown-it")({
   breaks: true, // Convert '\n' in paragraphs into <br>
   linkify: true, // Autoconvert URL-like text to links
 });
+const { parse } = require("rss-to-json");
 
+const MEDIUM_RSS_URL = "https://medium.com/feed/@aksalsf";
 const TIMEZONE_OFFSET = 7;
 
-(() => {
+(async () => {
 
   const [now, minute] = getCurrentTime();
   const greetings = generateGreetings(now);
   const tip = getTips(now);
   const snake = `![github contribution grid snake animation](https://raw.githubusercontent.com/aksalsf/aksalsf/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/aksalsf/aksalsf/output/github-contribution-grid-snake.svg#gh-light-mode-only)`;
 
-  const text = `### ${greetings}
-    Hi there 👋 I'm Aksal. I'm a software engineer from 🇮🇩 Indonesia working to solve problems, but sometimes also create them.
+  const mediumPosts = await fetchMyMediumPosts(MEDIUM_RSS_URL)
+      .then(response => response.items
+          .slice(0, 6)
+          ?.map(post => (`- [${post?.title}](${post.link})`))
+          .join("\n")
+      );
 
-    My code is like a girl (perfect and beautiful) so I'm always found that only me who can understand her. Wkwk, just kidding.
+  const text = `### ${greetings}
+    Hi there 👋 I'm Aksal. I'm a software engineer from 🇮🇩 Indonesia, working to solve problems, but sometimes also creating them.
+
+    My code is like a girl (perfect and beautiful), so, I'm always found that only me who can understand her. Wkwk, just kidding.
 
     Mostly I code in Javascript (React, Vue) and PHP (Laravel, CodeIgniter). I'm also a big fan of Windows until I met Linux 😆.
+    
+    I'm also writing some stories on Medium. 
+    ${mediumPosts}
 
     Nice to meet you!
     ${snake}
@@ -92,4 +104,8 @@ function generateFile(contents) {
     if (err) return console.log(`⛔ [FAILED]: ${err}`);
     console.log("✅ [SUCCESS]: README.md has been generated.");
   });
+}
+
+async function fetchMyMediumPosts(rssUrl) {
+  return await parse(rssUrl).then(rss => rss)
 }
