@@ -1,4 +1,4 @@
-### Good morning, it is. 😸<br>
+### Good afternoon 👋<br>
 Hi there 👋 I'm Aksal. I'm a software engineer from 🇮🇩 Indonesia, working to solve problems, but sometimes also creating them.<br>
 <br>
 My code is like a girl (perfect and beautiful), so, I'm always found that only me who can understand her. Wkwk, just kidding.<br>
@@ -14,4 +14,4 @@ Mostly I code in Javascript (React, Vue) and PHP (Laravel, CodeIgniter). I'm als
 <p align="center"><br>
 <img src="https://raw.githubusercontent.com/aksalsf/aksalsf/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="github contribution grid snake animation"><img src="https://raw.githubusercontent.com/aksalsf/aksalsf/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="github contribution grid snake animation"><br>
 </p><br>
-💡 Tip: Wanna advice? Don't start your day with any meeting. Start with code!<br>
+💡 Tip: Don't be too fond of keeping bugs, Buddy. Release it~<br>
