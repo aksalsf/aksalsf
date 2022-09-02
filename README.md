@@ -14,4 +14,4 @@ Mostly I code in Javascript (React, Vue) and PHP (Laravel, CodeIgniter). I'm als
 <p align="center"><br>
 <img src="https://raw.githubusercontent.com/aksalsf/aksalsf/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="github contribution grid snake animation"><img src="https://raw.githubusercontent.com/aksalsf/aksalsf/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="github contribution grid snake animation"><br>
 </p><br>
-💡 Tip: Even though the morning air is good, it is better to not open your Windows.<br>
+💡 Tip: Wanna advice? Don't start your day with any meeting. Start with code!<br>
