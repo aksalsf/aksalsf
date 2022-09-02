@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -220,7 +220,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 17.3mb of code in 830 edited files across 129 commits</small>
+                <small>estimation from 17.3mb of code in 830 edited files across 130 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -2359,7 +2359,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rizafahmi/awesome-speakers-id</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Para developer keren asal Indonesia yang bisa diundang ke acara komunitas dan konferensi sebagai pembicara atau narasumber</div>
@@ -2400,7 +2400,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rizafahmi/carikerja</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Menghubungkan para Software Engineer kece di tanah air yang terpaksa harus terkena pemutusan hubungan kerja karena pandemi COVID-19 dengan perusahaan yang sedang mencari talenta digital.</div>
@@ -2556,7 +2556,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Sept 2022, 23:27:49 (timezone Asia/Jakarta) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 3 Sept 2022, 04:16:42 (timezone Asia/Jakarta) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
