@@ -1,7 +1,7 @@
 {
-  "name": "aksalsf",
-  "version": "1.0.0",
-  "description": "README.md generator for aksalsf",
+  "name": "readme",
+  "version": "2.0.0",
+  "description": "A simple README.md for building your GitHub profile.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -11,8 +11,8 @@
     "type": "git",
     "url": "git+https://github.com/aksalsf/aksalsf.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "꧋ꦄꦏ꧀ꦱꦭ꧀",
+  "license": "wtfpl",
   "bugs": {
     "url": "https://github.com/aksalsf/aksalsf/issues"
   },
