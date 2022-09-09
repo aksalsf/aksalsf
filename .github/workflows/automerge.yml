@@ -1,0 +1,27 @@
+# This is a basic workflow to help you get started with Actions
+
+name: automerge
+
+# Controls when the workflow will run
+on:
+  pull_request:
+    branches: [ "imgbot" ]
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  automerge:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      - name: Merge me!
+        uses: ridedott/merge-me-action@v2.8.35
+        with:
+          # The GitHub login for which automatic merges are enabled. Supports micromatch.
+          GITHUB_LOGIN: imgbot
+          # A GitHub token.
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Represents available types of methods to use when merging a pull request. One of: MERGE, STASH or REBASE
+          MERGE_METHOD: REBASE
