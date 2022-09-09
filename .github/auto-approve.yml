@@ -10,3 +10,4 @@ rules:
 # src/valid-pr-schema.json
 
 - author: "imgbot"
+  title: "^[ImgBot] Optimize images$"
