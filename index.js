@@ -1,7 +1,7 @@
 const fs = require("fs");
 const md = require("markdown-it")({
   html: true, // Enable HTML tags in source
-  breaks: true, // Convert '\n' in paragraphs into <br>
+  breaks: false, // Convert '\n' in paragraphs into <br>
   linkify: true, // Autoconvert URL-like text to links
 });
 const { parse } = require("rss-to-json");
@@ -31,12 +31,11 @@ const TIMEZONE_OFFSET = 7;
     Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgniter). A Windows fanboy until I met Linux 😆
     ### I'm also writing some stories on Medium
     ${mediumPosts}
-    ### Metrics 🚀
+    <p align="center">${snake}</p>
     ![Skills Metrics](/skills-metrics.svg)
     ![Habits Metrics](/habits-metrics.svg)
     ![Social Metrics](/social-metrics.svg)
     ![Achievement Metrics](/achievement-metrics.svg)
-    <p align="center">${snake}</p>
     *"${tip}"*
   `;
 
