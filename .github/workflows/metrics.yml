@@ -26,7 +26,7 @@ jobs:
           # Options
           user: aksalsf
           template: classic
-          base: repositories
+          base: ""
           config_display: large
           config_timezone: Asia/Jakarta
           plugin_languages: yes
@@ -46,7 +46,6 @@ jobs:
           plugin_topics_limit: 0
           plugin_topics_mode: mastered
           plugin_topics_sort: random
-          plugin_traffic: yes
 
       - name: Habits Metrics
         if: ${{ success() || failure() }}
@@ -63,6 +62,8 @@ jobs:
           base: ""
           config_display: large
           config_timezone: Asia/Jakarta
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
           plugin_habits: yes
           plugin_habits_charts: yes
           plugin_habits_charts_type: classic
