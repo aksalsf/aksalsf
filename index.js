@@ -33,14 +33,10 @@ const TIMEZONE_OFFSET = 7;
     I'm also a big fan of Windows until I met Linux 😆
     ### I'm also writing some stories on Medium
     ${mediumPosts}
-    <details>
-      <summary>Metrics</summary>
-
-      <img align="left" src="/left-metrics.svg" alt="Metrics" width="390" />
-      <img align="right" src="/right-metrics.svg" alt="Metrics" width="390" />
-      <img align="left" src="/people-metrics.svg" alt="Metrics" width="390" />
-      <img align="right" src="/achievement-metrics.svg" alt="Metrics" width="390" />
-    </details>
+    [Skills Metrics](/skills-metrics.svg)
+    [Habits Metrics](/habits-metrics.svg)
+    [Social Metrics](/social-metrics.svg)
+    [Achievement Metrics](/achievement-metrics.svg)
     <p align="center">
       ${snake}
     </p>
