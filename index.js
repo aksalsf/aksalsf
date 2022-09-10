@@ -11,9 +11,9 @@ const TIMEZONE_OFFSET = 7;
 
 (async () => {
 
-  const [now, minute] = getCurrentTime();
-  const greetings = generateGreetings(now);
-  const tip = getTips(now);
+  const [hour, minute] = getCurrentTime();
+  const greetings = generateGreetings(hour);
+  const tip = getTips(hour);
   const snake = `![github contribution grid snake animation](https://raw.githubusercontent.com/aksalsf/aksalsf/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/aksalsf/aksalsf/output/github-contribution-grid-snake.svg#gh-light-mode-only)`;
 
   const mediumPosts = await fetchMyMediumPosts(MEDIUM_RSS_URL)
@@ -24,41 +24,50 @@ const TIMEZONE_OFFSET = 7;
       );
 
   const text = `### ${greetings}
-    Hi there 👋 I'm Aksal (꧋ꦄꦏ꧀ꦱꦭ꧀). I'm a software engineer from 🇮🇩 Indonesia, working to solve problems, but sometimes also creating them.
+    Heya 👋 I'm Aksal. I'm a software engineer from 🇮🇩 Indonesia.
 
     My code is like a girl (perfect and beautiful), so, I'm always found that only me who can understand her. Wkwk, just kidding.
 
-    Mostly I code in Javascript (React, Vue) and PHP (Laravel, CodeIgniter). I'm also a big fan of Windows until I met Linux 😆.
+    Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgniter).
+
+    I'm also a big fan of Windows until I met Linux 😆
     ### I'm also writing some stories on Medium
     ${mediumPosts}
-    ### Metrics
-    <img align="left" src="/left-metrics.svg" alt="Metrics" width="390" />
-    <img align="right" src="/right-metrics.svg" alt="Metrics" width="390" />
-    <img align="left" src="/people-metrics.svg" alt="Metrics" width="390" />
-    <img align="right" src="/achievement-metrics.svg" alt="Metrics" width="390" />
+    <details>
+      <summary>Metrics</summary>
+
+      <img align="left" src="/left-metrics.svg" alt="Metrics" width="390" />
+      <img align="right" src="/right-metrics.svg" alt="Metrics" width="390" />
+      <img align="left" src="/people-metrics.svg" alt="Metrics" width="390" />
+      <img align="right" src="/achievement-metrics.svg" alt="Metrics" width="390" />
+    </details>
     <p align="center">
       ${snake}
     </p>
-    💡 Tip: ${tip}
+    *"${tip}"*
   `;
 
   const content = md.renderInline(text);
   generateFile(content);
 
   /* Timestamp */
-  console.log(`⏳ Running at ${now.toString().padStart(2, "0")}:${minute} GMT+7`);
+  console.log(`⏳ Running at ${hour.toString().padStart(2, "0")}:${minute} GMT+7`);
 })();
 
 function getCurrentTime() {
-  const now = new Date();
-  now.setHours(now.getHours() + TIMEZONE_OFFSET);
-  const hour = now.getHours();
-  const minute = now.getMinutes();
-  // check if now >= 24
+  const today = new Date();
+  today.setHours(today.getHours() + TIMEZONE_OFFSET);
+  const hour = today.getHours();
+  const minute = today.getMinutes();
+  // check if the hour >= 24
   if (hour >= 24) {
     return Math.abs(24 - hour);
   }
   return [hour, minute];
+}
+
+function isWeekend(date = new Date()) {
+  return date.getDay() === 6 || date.getDay() === 0;
 }
 
 function generateGreetings(time) {
@@ -66,7 +75,11 @@ function generateGreetings(time) {
   const goodAfternoon = "Good afternoon 👋";
   const goodEvening = "Good evening 👋";
   const goodNight = "Nite nite 😴";
+  const happyWeekend = "Happy weekend 🥰";
 
+  if (isWeekend()) {
+    return happyWeekend;
+  }
   if (time >= 4 && time < 12) {
     return goodMorning;
   }
@@ -80,6 +93,9 @@ function generateGreetings(time) {
 }
 
 function getTips(time) {
+  if (isWeekend()) {
+    return "Cheers, mate. No work, just chill. Cool, yeh!";
+  }
   if (time >= 4 && time < 8) {
     return "Even though the morning air is good, it is better to not open your Windows.";
   }
