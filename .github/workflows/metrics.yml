@@ -26,24 +26,27 @@ jobs:
           # Options
           user: aksalsf
           template: classic
-          base: ""
+          base: repositories
           config_display: large
           config_timezone: Asia/Jakarta
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
-          plugin_languages_categories: markup, programming
+          plugin_languages_categories: data, markup, programming, prose
           plugin_languages_colors: github
           plugin_languages_indepth: yes
+          commits_authoring: ꧋ꦄꦏ꧀ꦱꦭ꧀, aksalsf, aksalsf@users.noreply.github.com, aksal.sf@gmail.com
           plugin_languages_limit: 8
-          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_categories: data, markup, programming, prose
           plugin_languages_recent_days: 30
-          plugin_languages_recent_load: 300
-          plugin_languages_sections: most-used
-          plugin_languages_threshold: 0%
+          plugin_languages_recent_load: 1000
+          plugin_languages_sections: most-used, recently-used
+          plugin_languages_threshold: 5%
+          plugin_languages_details: bytes-size, percentage, lines
           plugin_topics: yes
           plugin_topics_limit: 0
           plugin_topics_mode: mastered
           plugin_topics_sort: random
+          plugin_traffic: yes
 
       - name: Habits Metrics
         if: ${{ success() || failure() }}
