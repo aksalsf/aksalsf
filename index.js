@@ -31,13 +31,12 @@ const TIMEZONE_OFFSET = 7;
     Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgniter). A Windows fanboy until I met Linux 😆
     ### I'm also writing some stories on Medium
     ${mediumPosts}
-    <p align="center">
+    ### Metrics 🚀
     ![Skills Metrics](/skills-metrics.svg)
     ![Habits Metrics](/habits-metrics.svg)
-    ![Achievement Metrics](/achievement-metrics.svg)
     ![Social Metrics](/social-metrics.svg)
-    ${snake}
-    </p>
+    ![Achievement Metrics](/achievement-metrics.svg)
+    <p align="center">${snake}</p>
     *"${tip}"*
   `;
 
