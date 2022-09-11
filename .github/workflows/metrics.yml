@@ -3,11 +3,9 @@ name: Metrics
 on:
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
-  
-  workflow_run:
-    workflows: [README]
-    types:
-      - completed
+
+  schedule:
+    - cron: '0 5,17 * * *'
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
