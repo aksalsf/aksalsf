@@ -19,7 +19,7 @@ jobs:
         npm ci
     - name: Run build command
       run: |-
-        npm build
+        npm run build
     - name: Commit and push if changed
       run: |-
         git add .
