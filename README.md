@@ -11,5 +11,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;The days I spent with you were a lot of fun. I realized for the first time that it makes me so happy to be needed by others. I thought I'd get along well with you like this. But I can't. I was being a jerk. While I was with you, I was looking at someone else. I kept it to myself even after realizing that. I was taking advantage of your kindness.&quot;</em> <br>
-— Okazaki Tomoya (Clannad After Story)
+<em>&quot;We are but men, drawn to act in the name of revenge that we deem to be justice. But... if there is justice in revenge then that same justice will breed only more revenge... and trigger a cycle of hatred.&quot;</em> <br>
+— Pain (Naruto)
