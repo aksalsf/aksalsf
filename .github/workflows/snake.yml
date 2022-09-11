@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
   
   workflow_run:
-    workflows: [Metrics]
+    workflows: [Build Readme, Metrics]
     types:
       - completed
 
