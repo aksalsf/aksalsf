@@ -11,5 +11,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;We are but men, drawn to act in the name of revenge that we deem to be justice. But... if there is justice in revenge then that same justice will breed only more revenge... and trigger a cycle of hatred.&quot;</em> <br>
-— Pain (Naruto)
+<em>&quot;I'll do whatever it takes to have everything make sense again!&quot;</em> <br>
+— Mahiro Fuwa (Zetsuen No Tempest)
