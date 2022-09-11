@@ -40,6 +40,7 @@ jobs:
           plugin_languages_sections: most-used, recently-used
           plugin_languages_threshold: 0%
           plugin_languages_details: bytes-size, percentage, lines
+          plugin_languages_ignored: svg, yacc, yaml, text, json, makefile, qmake, lex, cmake, shell, gnuplot
           plugin_topics: yes
           plugin_topics_limit: 0
           plugin_topics_mode: mastered
