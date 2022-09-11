@@ -1,3 +1,4 @@
+const axios = require("axios");
 const fs = require("fs");
 const md = require("markdown-it")({
   html: true, // Enable HTML tags in source
@@ -8,12 +9,13 @@ const { parse } = require("rss-to-json");
 
 const MEDIUM_RSS_URL = "https://medium.com/feed/@aksalsf";
 const TIMEZONE_OFFSET = 7;
+const QUOTE_API_URL = "https://animechan.vercel.app/api/random";
 
 (async () => {
 
   const [hour, minute] = getCurrentTime();
   const greetings = generateGreetings(hour);
-  const tip = getTips(hour);
+  const { quote, author } = await getQuotes(hour);
   const snake = `![github contribution grid snake animation](https://raw.githubusercontent.com/aksalsf/aksalsf/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/aksalsf/aksalsf/output/github-contribution-grid-snake.svg#gh-light-mode-only)`;
 
   const mediumPosts = await fetchMyMediumPosts(MEDIUM_RSS_URL)
@@ -36,7 +38,8 @@ const TIMEZONE_OFFSET = 7;
     ![Habits Metrics](/habits-metrics.svg)
     ![Social Metrics](/social-metrics.svg)
     ![Achievement Metrics](/achievement-metrics.svg)
-    *"${tip}"*
+    *"${quote}"* <br>
+    — ${author}
   `;
 
   const content = md.renderInline(text);
@@ -84,29 +87,61 @@ function generateGreetings(time) {
   return goodNight;
 }
 
-function getTips(time) {
+async function getQuotes(time) {
   if (isWeekend()) {
-    return "Cheers, mate. No work, just chill. Cool, yeh!";
+    if (time >= 4 && time < 23) {
+      return await axios
+        .get(QUOTE_API_URL)
+        .then(response => ({
+          quote: response.data.quote,
+          author: `${response.data.character} (${response.data.anime})`
+        }))
+    }
+    return {
+      quote: "Cheers, mate. No work, just chill. Cool, yeh!",
+      author: "Aksal"
+    };
   }
   if (time >= 4 && time < 8) {
-    return "Even though the morning air is good, it is better to not open your Windows.";
+    return {
+      quote: "Even though the morning air is good, it is better to not open your Windows.",
+      author: "Aksal"
+    };
   }
   if (time >= 8 && time < 12) {
-    return "Wanna advice? Don't start your day with any meeting. Start with code!";
+    return {
+      quote: "Wanna advice? Don't start your day with any meeting. Start with code!",
+      author: "Aksal"
+    };
   }
   if (time >= 12 && time < 13) {
-    return "A good programmer always collaborating, even when having lunch!";
+    return {
+      quote: "A good programmer always collaborating, even when having lunch!",
+      author: "Aksal"
+    };
   }
   if (time >= 13 && time < 18) {
-    return "Don't be too fond of keeping bugs, Buddy. Release it~";
+    return {
+      quote: "Don't be too fond of keeping bugs, Buddy. Release it~",
+      author: "Aksal"
+    };
   }
   if (time >= 18 && time < 20) {
-    return "Time to home!";
+    return {
+      quote: "Time to home!",
+      author: "Aksal"
+    };
   }
   if (time >= 20 && time < 23) {
-    return "Take a good book to bed with you—books do not snore.";
+    return {
+      quote: "Take a good book to bed with you—books do not snore.",
+      author: "Aksal"
+    };
   }
-  return "Have a nice dream!";
+  return {
+    quote: "Have a nice dream!",
+    author: "Aksal"
+  };
 }
 
 function generateFile(contents) {
