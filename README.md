@@ -1,4 +1,4 @@
-### Happy weekend 🥰
+### Good morning, it is. 😸
 Heya 👋 I'm Aksal. I'm a software engineer from 🇮🇩 Indonesia.
 
 My code is like a girl (perfect and beautiful), so, I'm always found that only me who can understand her. Wkwk, just kidding.
@@ -11,13 +11,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;Merits, demerits, risks, returns; if they were these things then I understood. I could understand.
-
-Desire and self-protection, hatred from jealousy. I could analyze the mentality of the actions that were grounded on these abundant, repulsive emotions. That's because I had plenty of those ugly feelings inside of me. That's why it was simple to imagine. if they were similar things, then there was still room to understand it. I could explain using logic.
-
-However, if there wasn't, then it was difficult.
-
-Without the concept of profit and loss, it was hard to imagine the feelings of people who went beyond people who went beyond logic and theory. I had too little to go on and above all else. I had committed too many mistakes up until now.
-
-Good will, friendship, or even love; they were all things I had been mistaken with. I was sure that I was mistaken with them even now as I thought about them.&quot;</em> <br>
-— Hachiman Hikigaya (Yahari Ore no Seishun Love Come wa Machigatteiru. Zoku)
+<em>&quot;Wanna advice? Don't start your day with any meeting. Start with code!&quot;</em> <br>
+— Aksal
