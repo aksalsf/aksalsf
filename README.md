@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;I don't think I'll learn anything if I don't try to do something about it on my own.&quot;</em> <br>
-— Hishiro Chizuru (ReLIFE)
+<em>&quot;[after drawing the infinity symbol] I thought of it myself, it stands for... Mugen.&quot;</em> <br>
+— Mugen (Samurai Champloo)
