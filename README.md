@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;[after drawing the infinity symbol] I thought of it myself, it stands for... Mugen.&quot;</em> <br>
-— Mugen (Samurai Champloo)
+<em>&quot;Childish ideals pale when placed before reality.&quot;</em> <br>
+— Citan Uzuki (Xenogears)
