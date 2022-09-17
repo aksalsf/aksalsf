@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;Childish ideals pale when placed before reality.&quot;</em> <br>
-— Citan Uzuki (Xenogears)
+<em>&quot;I came to believe that a world where people can understand each other isn't impossible. That's why even if the world rejects me... even if the world blames me... I'll keep on fighting.&quot;</em> <br>
+— Lockon Stratos (Mobile Suit Gundam 00)
