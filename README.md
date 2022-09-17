@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;I never ask them to trust me at all. I told them to come with me but I never told them to trust me. And I always tell them not to trust anyone, including myself. But sadly, there are not many strong enough to do that.&quot;</em> <br>
-— Aizen Sousuke (Bleach)
+<em>&quot;I don't think I'll learn anything if I don't try to do something about it on my own.&quot;</em> <br>
+— Hishiro Chizuru (ReLIFE)
