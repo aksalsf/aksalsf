@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;Cheers, mate. No work, just chill. Cool, yeh!&quot;</em> <br>
-— Aksal
+<em>&quot;All truth is meaningless. In the end, 'meaning' comes from the mind of each individual human. Even when there is a single truth, it can mean different things to different individuals. The truth has no meaning in itself!&quot;</em> <br>
+— Furudo Erika (Umineko no Naku Koro ni)
