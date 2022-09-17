@@ -1,4 +1,4 @@
-### Good morning, it is. 😸
+### Happy weekend 🥰
 Heya 👋 I'm Aksal. I'm a software engineer from 🇮🇩 Indonesia.
 
 My code is like a girl (perfect and beautiful), so, I'm always found that only me who can understand her. Wkwk, just kidding.
@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;Even though the morning air is good, it is better to not open your Windows.&quot;</em> <br>
-— Aksal
+<em>&quot;I never ask them to trust me at all. I told them to come with me but I never told them to trust me. And I always tell them not to trust anyone, including myself. But sadly, there are not many strong enough to do that.&quot;</em> <br>
+— Aizen Sousuke (Bleach)
