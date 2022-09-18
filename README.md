@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;The more you rush, the less careful you become. Even a cautious rat will show its tail.&quot;</em> <br>
-— Henrietta de Tristain (Zero no Tsukaima: Futatsuki no Kishi)
+<em>&quot;Every day, the words cross my mind.  &quot;If I had done this back then...&quot; but they don't take the sincere form of regret.  The words are just an excuse that come to my mind then disappear.&quot;</em> <br>
+— Satoru Fujinuma (Boku dake ga Inai Machi)
