@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;I'm a terrible person, aren't I? &quot;If only Kurosaki-kun would cheer up, I'd be happy.&quot; At least, I thought that was how I felt. Then Kuchiki-san came back and cheered Kurosaki-kun up. I should have been really happy, but... but... [starts to cry] but instead I'm jealous of Kuchiki-san!&quot;</em> <br>
-— Inoue Orihime (Bleach)
+<em>&quot;The more you rush, the less careful you become. Even a cautious rat will show its tail.&quot;</em> <br>
+— Henrietta de Tristain (Zero no Tsukaima: Futatsuki no Kishi)
