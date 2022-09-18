@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;Hinata, untie the ropes before you faint.&quot;</em> <br>
-— Kiba Inuzuka (Naruto)
+<em>&quot;A traveler does not leave regret behind in a village, but good memories.&quot;</em> <br>
+— Kraft Lawrence (Spice and Wolf)
