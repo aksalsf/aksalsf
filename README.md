@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;If you keep my secret, this strawberry is yours.&quot;</em> <br>
-— L Lawliet (Death Note)
+<em>&quot;I'm a terrible person, aren't I? &quot;If only Kurosaki-kun would cheer up, I'd be happy.&quot; At least, I thought that was how I felt. Then Kuchiki-san came back and cheered Kurosaki-kun up. I should have been really happy, but... but... [starts to cry] but instead I'm jealous of Kuchiki-san!&quot;</em> <br>
+— Inoue Orihime (Bleach)
