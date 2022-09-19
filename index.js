@@ -31,7 +31,7 @@ const QUOTE_API_URL = "https://animechan.vercel.app/api/random";
     My code is like a girl (perfect and beautiful), so, I'm always found that only me who can understand her. Wkwk, just kidding.
 
     Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgniter). A Windows fanboy until I met Linux 😆
-    ### I'm also writing some stories on Medium
+    ### Hey there, down here 👋 Want to read something cool?
     ${mediumPosts}
     <p align="center">${snake}</p>
     ![Skills Metrics](/skills-metrics.svg)
