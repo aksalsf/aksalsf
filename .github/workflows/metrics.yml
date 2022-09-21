@@ -40,7 +40,7 @@ jobs:
           plugin_languages_sections: most-used, recently-used
           plugin_languages_threshold: 0%
           plugin_languages_details: bytes-size, percentage, lines
-          plugin_languages_ignored: svg, yacc, yaml, text, json, makefile, qmake, lex, cmake, shell, gnuplot, markdown
+          plugin_languages_ignored: svg, yacc, yaml, text, json, makefile, qmake, lex, cmake, shell, gnuplot, markdown, hack
           plugin_topics: yes
           plugin_topics_limit: 0
           plugin_topics_mode: mastered
@@ -88,9 +88,7 @@ jobs:
           base: ""
           config_display: large
           config_timezone: Asia/Jakarta
-          plugin_discussions: yes
-          plugin_discussions_categories: yes
-          plugin_discussions_categories_limit: 4
+          plugin_support: yes
           plugin_stackoverflow: yes
           plugin_stackoverflow_limit: 2
           plugin_stackoverflow_lines: 3
