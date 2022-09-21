@@ -9,7 +9,8 @@ const { parse } = require("rss-to-json");
 
 const MEDIUM_RSS_URL = "https://medium.com/feed/@aksalsf";
 const TIMEZONE_OFFSET = 7;
-const QUOTE_API_URL = "https://animechan.vercel.app/api/random";
+const ANIME_API_URL = "https://animechan.vercel.app/api/random";
+const PROGRAMMER_API_URL = "https://programming-quotes-api.herokuapp.com/Quotes/random";
 
 (async () => {
 
@@ -75,10 +76,10 @@ function generateGreetings(time) {
   if (isWeekend()) {
     return happyWeekend;
   }
-  if (time >= 4 && time < 12) {
+  if (time >= 4 && time < 11) {
     return goodMorning;
   }
-  if (time >= 12 && time < 16) {
+  if (time >= 11 && time < 16) {
     return goodAfternoon;
   }
   if (time >= 16 && time < 23) {
@@ -91,7 +92,7 @@ async function getQuotes(time) {
   if (isWeekend()) {
     if (time >= 4 && time < 23) {
       return await axios
-        .get(QUOTE_API_URL)
+        .get(ANIME_API_URL)
         .then(response => ({
           quote: response.data.quote,
           author: `${response.data.character} (${response.data.anime})`
@@ -108,23 +109,25 @@ async function getQuotes(time) {
       author: "Aksal"
     };
   }
-  if (time >= 8 && time < 12) {
+  if (time >= 8 && time < 11) {
     return {
       quote: "Wanna advice? Don't start your day with any meeting. Start with code!",
       author: "Aksal"
     };
   }
-  if (time >= 12 && time < 13) {
+  if (time >= 11 && time < 13) {
     return {
       quote: "A good programmer always collaborating, even when having lunch!",
       author: "Aksal"
     };
   }
   if (time >= 13 && time < 18) {
-    return {
-      quote: "Don't be too fond of keeping bugs, Buddy. Release it~",
-      author: "Aksal"
-    };
+    return await axios
+        .get(PROGRAMMER_API_URL)
+        .then(response => ({
+          quote: response.data.en,
+          author: response.data.author
+        }));
   }
   if (time >= 18 && time < 20) {
     return {
