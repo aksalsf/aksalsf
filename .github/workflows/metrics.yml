@@ -88,7 +88,6 @@ jobs:
           base: ""
           config_display: large
           config_timezone: Asia/Jakarta
-          plugin_support: yes
           plugin_stackoverflow: yes
           plugin_stackoverflow_limit: 2
           plugin_stackoverflow_lines: 3
