@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;Don't be too fond of keeping bugs, Buddy. Release it~&quot;</em> <br>
-— Aksal
+<em>&quot;SQL, Lisp, and Haskell are the only programming languages that I've seen where one spends more time thinking than typing.&quot;</em> <br>
+— Philip Greenspun
