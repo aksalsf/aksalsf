@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;Hidden in truths lie lies, hidden in lies hides the truth.&quot;</em> <br>
-— Rokudou Mukuro (Katekyo Hitman Reborn!)
+<em>&quot;You destroyed those Menos Grandes. That's enough for me! I have decided to fight by your side! I won't accept no as an answer, masked ones!&quot;</em> <br>
+— Komamura Sajin (Bleach)
