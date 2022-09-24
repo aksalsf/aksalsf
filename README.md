@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;Nobody can take anybody's place. There isn't a person in this world that could take your place. It doesn't matter if you were based on me or have the same face.&quot;</em> <br>
-— Gintoki Sakata (Gintama)
+<em>&quot;Hidden in truths lie lies, hidden in lies hides the truth.&quot;</em> <br>
+— Rokudou Mukuro (Katekyo Hitman Reborn!)
