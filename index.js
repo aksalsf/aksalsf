@@ -14,7 +14,7 @@ const PROGRAMMER_API_URL = "https://programming-quotes-api.herokuapp.com/Quotes/
 
 (async () => {
 
-  const [hour, minute] = getCurrentTime();
+  const { today, hour } = getCurrentTime();
   const greetings = generateGreetings(hour);
   const { quote, author } = await getQuotes(hour);
   const snake = `![github contribution grid snake animation](https://raw.githubusercontent.com/aksalsf/aksalsf/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/aksalsf/aksalsf/output/github-contribution-grid-snake.svg#gh-light-mode-only)`;
@@ -47,7 +47,7 @@ const PROGRAMMER_API_URL = "https://programming-quotes-api.herokuapp.com/Quotes/
   generateFile(content);
 
   /* Timestamp */
-  console.log(`⏳ Running at ${hour.toString().padStart(2, "0")}:${minute} GMT+7`);
+  console.log(`⏳ Running at ${today} UTC +0${TIMEZONE_OFFSET}:00`);
 })();
 
 function getCurrentTime() {
@@ -59,10 +59,14 @@ function getCurrentTime() {
   if (hour >= 24) {
     return Math.abs(24 - hour);
   }
-  return [hour, minute];
+  return {
+    today,
+    hour,
+    minute
+  };
 }
 
-function isWeekend(date = new Date()) {
+function isWeekend(date = getCurrentTime().today) {
   return date.getDay() === 6 || date.getDay() === 0;
 }
 
