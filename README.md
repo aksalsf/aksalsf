@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;There's no lack of painful things in this world, but hunger and loneliness must surely be two of the worst. Thanks to you, I didn't know a moment of either of them.&quot;</em> <br>
-— Sakae Jinnouchi (Summer Wars)
+<em>&quot;It's a nice thought to believe in a &quot;next time&quot;. If it was a real battlefield, there wouldn't be a &quot;next time&quot;.&quot;</em> <br>
+— Tatsuya Shiba (Mahouka Koukou no Rettousei)
