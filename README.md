@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;The more material you possess, the harder you'll feel the loss.&quot;</em> <br>
-— Arima Teppei (Princess Lover!)
+<em>&quot;Excuse me... I'm not a microphone! I'm a chain scythe.&quot;</em> <br>
+— Tsubaki Nakatsukasa (Soul Eater)
