@@ -94,6 +94,9 @@ jobs:
           plugin_stackoverflow_lines_snippet: 2
           plugin_stackoverflow_sections: answers-recent, answers-top, questions-recent, questions-top
           plugin_stackoverflow_user: 17299094
+          plugin_projects: yes
+          plugin_projects_repositories: skaladev/skala-dashboard/projects/2
+          plugin_projects_descriptions: yes
 
       - name: Achievement Metrics
         if: ${{ success() || failure() }}
