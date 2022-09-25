@@ -1,4 +1,4 @@
-### Happy weekend 🥰
+### Good morning, it is. 😸
 Heya 👋 I'm Aksal. I'm a software engineer from 🇮🇩 Indonesia.
 
 My code is like a girl (perfect and beautiful), so, I'm always found that only me who can understand her. Wkwk, just kidding.
@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;Women tend to kill when it's not necessary. They kill for reasons of passion. For trivial reasons like love and hate.&quot;</em> <br>
-— Lieutenant Colonel Yuuki (Joker Game)
+<em>&quot;Even though the morning air is good, it is better to not open your Windows.&quot;</em> <br>
+— Aksal
