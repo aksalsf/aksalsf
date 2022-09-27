@@ -1,4 +1,4 @@
-### Good morning, it is. 😸
+### Good afternoon 👋
 Heya 👋 I'm Aksal. I'm a software engineer from 🇮🇩 Indonesia.
 
 My code is like a girl (perfect and beautiful), so, I'm always found that only me who can understand her. Wkwk, just kidding.
@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;Wanna advice? Don't start your day with any meeting. Start with code!&quot;</em> <br>
-— Aksal
+<em>&quot;From an artistic standpoint, the best software comes from the realm of intuition.&quot;</em> <br>
+— Bob Carr
