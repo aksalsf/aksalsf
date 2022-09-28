@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;An organisation that treats its programmers as morons will soon have programmers that are willing and able to act like morons only.&quot;</em> <br>
-— Bjarne Stroustrup
+<em>&quot;Time to home!&quot;</em> <br>
+— Aksal
