@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;The effective exploitation of his powers of abstraction must be regarded as one of the most vital activities of a competent programmer.&quot;</em> <br>
-— Edsger W. Dijkstra
+<em>&quot;Time to home!&quot;</em> <br>
+— Aksal
