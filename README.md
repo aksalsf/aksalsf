@@ -1,4 +1,4 @@
-### Nite nite 😴
+### Happy weekend 🥰
 Heya 👋 I'm Aksal. I'm a software engineer from 🇮🇩 Indonesia.
 
 My code is like a girl (perfect and beautiful), so, I'm always found that only me who can understand her. Wkwk, just kidding.
@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;Have a nice dream!&quot;</em> <br>
-— Aksal
+<em>&quot;I felt like I was watching a dream I'd never wake up from. Before I knew it, the dream was all over.&quot;</em> <br>
+— Spike Spiegel (Cowboy Bebop)
