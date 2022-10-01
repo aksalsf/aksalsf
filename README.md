@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;Because we can’t understand each other, it makes us want to make things clear even more.&quot;</em> <br>
-— Sawako Kuronuma (Kimi ni Todoke)
+<em>&quot;Even if your feelings or wishes do not come true, or if things don't go as you planned - on another road grows another flower. A new flower blooms there.&quot;</em> <br>
+— Dera Mochimazzi (Tamako Market)
