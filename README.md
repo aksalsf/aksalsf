@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;I'm pretty confident about my reflexes. And pretty strong too. I'm a guy after all. When the time comes, I can protect you even at the cost of my life.&quot;</em> <br>
-— Hideki Hinata (Angel Beats!)
+<em>&quot;The closer you get to the sun, the darker your shadow will be.&quot;</em> <br>
+— Aria Link (Tegami Bachi)
