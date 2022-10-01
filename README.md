@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;I felt like I was watching a dream I'd never wake up from. Before I knew it, the dream was all over.&quot;</em> <br>
-— Spike Spiegel (Cowboy Bebop)
+<em>&quot;Because we can’t understand each other, it makes us want to make things clear even more.&quot;</em> <br>
+— Sawako Kuronuma (Kimi ni Todoke)
