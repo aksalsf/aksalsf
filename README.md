@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;Cheers, mate. No work, just chill. Cool, yeh!&quot;</em> <br>
-— Aksal
+<em>&quot;People respect it when someone they are distant from is boring and harmless. However, they only like that person because he or she doesn't get in their way. No human would want to hang around a boring person.&quot;</em> <br>
+— Featherine Augustus Aurora (Umineko no Naku Koro ni)
