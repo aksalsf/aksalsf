@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;Even if your feelings or wishes do not come true, or if things don't go as you planned - on another road grows another flower. A new flower blooms there.&quot;</em> <br>
-— Dera Mochimazzi (Tamako Market)
+<em>&quot;People need to be told they're worthy of being alive by someone else or they can't go on.&quot;</em> <br>
+— Atsushi Nakajima (Bungou Stray Dogs)
