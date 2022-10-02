@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;I'd been wondering all this time, whether there's any meaning to a failed love. Is it something that will disappear, the same as something that never existed. Now I know, there is meaning...there was a meaning...right here.&quot;</em> <br>
-— Yuuta Takemoto (Honey and Clover)
+<em>&quot;We cannot direct the wind, but we can adjust the sails.&quot;</em> <br>
+— One Piece (One Piece)
