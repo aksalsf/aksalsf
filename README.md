@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;That rose whip of his must be ten feet long. Where does he stash it? All the ways I can think of sound kinda painful.&quot;</em> <br>
-— Kazuma Kuwabara (Yu Yu Hakusho)
+<em>&quot;The summer continues to make me wonder. So my head, boiling like a pot, will never cool. With the heat. With the cicadas buzzing. With the twinkling of the myriad stars floating in the sky.&quot;</em> <br>
+— Makoto Niwa (Denpa Onna to Seishun Otoko)
