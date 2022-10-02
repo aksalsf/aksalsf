@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;The summer continues to make me wonder. So my head, boiling like a pot, will never cool. With the heat. With the cicadas buzzing. With the twinkling of the myriad stars floating in the sky.&quot;</em> <br>
-— Makoto Niwa (Denpa Onna to Seishun Otoko)
+<em>&quot;There are three things I hate the most: Kids, pets, and women with attitude. So tell me, why do we have all of them packed into our ship!?&quot;</em> <br>
+— Spike Spiegel (Cowboy Bebop)
