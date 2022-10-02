@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;Listen up, I don't care what you punks do around the universe. But with this, my sword… anywhere it can reach, is part of my country! Asses who blunder in and violate my things… whether it be a Shogun, whether it be space pirates, whether it be a meteorite - I'll destroy them!!&quot;</em> <br>
-— Gintoki Sakata (Gintama)
+<em>&quot;Cheers, mate. No work, just chill. Cool, yeh!&quot;</em> <br>
+— Aksal
