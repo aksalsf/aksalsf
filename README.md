@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;A good programmer always collaborating, even when having lunch!&quot;</em> <br>
-— Aksal
+<em>&quot;Learning to program has no more to do with designing interactive software than learning to touch type has to do with writing poetry.&quot;</em> <br>
+— Ted Nelson
