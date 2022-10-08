@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;The arrogant one is you, Espada. But rest at ease. The reason for your loss is not due to that arrogance. It is simply due to a difference in power.&quot;</em> <br>
-— Kuchiki Byakuya (Bleach)
+<em>&quot;A long time there... There was a balloon man, right? When I first heard that story, I was so stupid that I actually enjoyed it... But really, the story was horrible. Driven solely by his dreams he used his balloons to disapear into the sky. The people watching made a big fuss about it... But no one really tried to stop it. There's no telling where the wind will take you. And he knew that one day his fuel, his ''freedom'' would run out, and he'd fall into the black ocean. To fly... that feeling is the most important thing. But instead of the dark clouds that drive people from the sky... There must be a chain to keep them grounded. The time will come, for those with the ability to fly away, while everyone else can only watch. Using their own wings, their own power... soaring as far as they can without aid. Because... Because that is what it means to fly.&quot;</em> <br>
+— Itsuki Minami (Air Gear)
