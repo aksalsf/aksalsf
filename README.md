@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;However happy or sad something is, you’ll soon forget it if you don’t get a chance to recall it. What people don’t realize is that they’ve forgotten about forgetting. If everyone really preserved the happiest memory from their past perfectly, they’d only be sadder living in their relatively hollow present. And if everyone preserved the worst memory from their past perfectly, well, they’d still be sad. Everyone just remembers what it’s inconvenient not to remember.&quot;</em> <br>
-— Kusonoki (Three Days of Happiness)
+<em>&quot;The arrogant one is you, Espada. But rest at ease. The reason for your loss is not due to that arrogance. It is simply due to a difference in power.&quot;</em> <br>
+— Kuchiki Byakuya (Bleach)
