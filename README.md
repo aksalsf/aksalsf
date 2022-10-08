@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;The bully always says it's a joke. But to the one being bullied, it's dead serious!&quot;</em> <br>
-— Fujisaki Yusuke (Sket Dance)
+<em>&quot;What are humans’ desires? What I think the most troublesome desire is the desire for attention. It’s the source of jealousy and relationship problems, too.&quot;</em> <br>
+— Makishima Shougo (Psycho-Pass)
