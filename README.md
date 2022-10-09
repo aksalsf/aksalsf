@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;Blaming others isn't going to resolve anything. There'll be a lot of things that are injust throughout your life. You will have to stand up by yourself.&quot;</em> <br>
-— Kazuichi Arai (Kimi ni Todoke)
+<em>&quot;Even if it's a rule... whether or not I follow it is up to me. Whether I obey the rule or break it and get killed by my comrades... is my choice.&quot;</em> <br>
+— Teresa (Claymore)
