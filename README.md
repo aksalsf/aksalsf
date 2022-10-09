@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;I fight to get what I need, and I kill whoever gets in my way. I always have.&quot;</em> <br>
-— Genkai (Yu Yu Hakusho)
+<em>&quot;Don't be too negative. You haven't become ashes just yet. You have your flesh and blood, and your bones are supporting you.&quot;</em> <br>
+— Sakurako Kujō (Sakurako-san no Ashioto ni wa Shitai ga Umatteiru)
