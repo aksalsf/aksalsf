@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;This silence belongs to us... and every single person out there, is waiting for us to fill it with something.&quot;</em> <br>
-— Kousei Arima (Shigatsu Wa Kimi No Uso)
+<em>&quot;A poor choice seals our fate.&quot;</em> <br>
+— Kurama (Yu Yu Hakusho)
