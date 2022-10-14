@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;Sadly, architecture has been undervalued for so long that many engineers regard life with a Big Ball of Mud as normal.&quot;</em> <br>
-— Joseph Yoder (computer scientist)
+<em>&quot;Time to home!&quot;</em> <br>
+— Aksal
