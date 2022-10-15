@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;There isn't anything more painful than to have someone say that he doesn't believe you.&quot;</em> <br>
-— Kawai Maria (Akuma To Love Song)
+<em>&quot;You should cry while you still can. When you get bigger, sometimes, you can't cry even if you have something you wanna cry about.&quot;</em> <br>
+— Okazaki Tomoya (CLANNAD)
