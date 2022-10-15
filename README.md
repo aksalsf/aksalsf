@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;Your unconditional trust is more than I'm willing to bear.&quot;</em> <br>
-— Hachiman Hikigaya (Yahari Ore No Seishun Love Come Wa Machigatteiru)
+<em>&quot;Even if you can forget, you can't erase the past.&quot;</em> <br>
+— Kenzo Tenma (Monster)
