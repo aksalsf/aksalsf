@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;Even if you can forget, you can't erase the past.&quot;</em> <br>
-— Kenzo Tenma (Monster)
+<em>&quot;Whether you win or lose... You can always come out ahead by learning from the experience.&quot;</em> <br>
+— All Might (Boku no Hero Academia)
