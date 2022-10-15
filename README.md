@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;I went with raven for a long bathroom break.&quot;</em> <br>
-— Oz Vessalius (Pandora Hearts)
+<em>&quot;No one really starts out kind. All we know how to do at first is want. We want food, we want attention... It's just natural survival instinct, I guess... But kindness is something that we all have to learn as we go. It's something that grows and develops slowly over time... The same way our bodies do...&quot;</em> <br>
+— Honda Tohru (Fruits Basket)
