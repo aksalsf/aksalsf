@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;A sinner once passed away will never return, but sins will never vanish and the love will never die.&quot;</em> <br>
-— Les Soldats (Noir)
+<em>&quot;Unfortunately, in reality there is no situation where one can win merely by following the rules. There will be knights that break the rules, and even chess pieces that betray him.&quot;</em> <br>
+— Ciel Phantomhive (Kuroshitsuji)
