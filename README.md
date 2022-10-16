@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;Unfortunately, in reality there is no situation where one can win merely by following the rules. There will be knights that break the rules, and even chess pieces that betray him.&quot;</em> <br>
-— Ciel Phantomhive (Kuroshitsuji)
+<em>&quot;The past is just the past. There's no inherent value in getting over it or catching up to it.&quot;</em> <br>
+— Deishū Kaiki (Nisemonogatari)
