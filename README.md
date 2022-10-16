@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;To the me back then, you don’t need to worry. You’ll soon find something you can do, something you can set your heart on.&quot;</em> <br>
-— Yui Hirasawa (K-ON!)
+<em>&quot;Trust? I hate that word, but coming from you it sounds different.&quot;</em> <br>
+— Porco Rosso (Porco Rosso)
