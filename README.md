@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;Those who don't fulfill their obligation to others 'ave no right to ask 'em for such privilege...&quot;</em> <br>
-— Mr. Blouse (Shingeki no Kyojin)
+<em>&quot;I shouldn't think about losing before the match has even begun.&quot;</em> <br>
+— Eiichirou Maruo (Baby Steps)
