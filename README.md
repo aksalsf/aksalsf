@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;To be a hacker - when I use the term - is somebody who is creative and does wonderful things.&quot;</em> <br>
-— Tim Berners-Lee
+<em>&quot;Time to home!&quot;</em> <br>
+— Aksal
