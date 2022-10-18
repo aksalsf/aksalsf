@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;A programming language is low level when its programs require attention to the irrelevant.&quot;</em> <br>
-— Alan Perlis
+<em>&quot;Time to home!&quot;</em> <br>
+— Aksal
