@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;Well, who you love depends on the person. Isn't everything fine as long as it's someone who's fun to be with? Being with someone doesn't require any permission as long as the two people accept each other. If you worry about your parents or your family, then you lose. Don't forget that. You can't go out with someone with incomplete feelings.&quot;</em> <br>
-— Ushiromiya Battler (Umineko no Naku Koro ni)
+<em>&quot;At the end of my life, it was just the two of us... You told me not to leave then so I decided not to go anywhere.&quot;</em> <br>
+— Atsushi Shimao (Natsuyuki Rendezvous)
