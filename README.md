@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;You are right. I have not yet introduced myself. I am Captain of the Seventh Division Komamura Sajin. And though it shames me, I am just as you say -- A meager worm of a man.&quot;</em> <br>
-— Komamura Sajin (Bleach)
+<em>&quot;In that case, you have nothing to fear. Mistakes aren’t made by locking your feelings away and holding back… They’re made while wearing your heart on your sleeve.&quot;</em> <br>
+— Mavis Vermillion (Fairy Tail)
