@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;At the end of my life, it was just the two of us... You told me not to leave then so I decided not to go anywhere.&quot;</em> <br>
-— Atsushi Shimao (Natsuyuki Rendezvous)
+<em>&quot;You are right. I have not yet introduced myself. I am Captain of the Seventh Division Komamura Sajin. And though it shames me, I am just as you say -- A meager worm of a man.&quot;</em> <br>
+— Komamura Sajin (Bleach)
