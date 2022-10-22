@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;If anybody's out there, you can come out. And if you're a monster or a ghost, you can stay where you are, and we won't bother you.&quot;</em> <br>
-— Ash Ketchum (Pokémon)
+<em>&quot;To take responsibility is to take the pain onto yourself. It means to bear more pain than what others felt because of your mistake.&quot;</em> <br>
+— Toua Tokuchi (One Outs)
