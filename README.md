@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;I don't mind losing to someone, but I won't be beaten by myself.&quot;</em> <br>
-— Emiya Shirou (Fate/stay night)
+<em>&quot;Stop looking at my soul you creep!&quot;</em> <br>
+— Maka Albarn (Soul Eater)
