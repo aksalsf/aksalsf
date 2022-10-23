@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;Stop looking at my soul you creep!&quot;</em> <br>
-— Maka Albarn (Soul Eater)
+<em>&quot;Everyone can make a choice after they have learned what it will result in. It is so easy to say we should have done it this way afterwards. But you can't know what your choice will result in before actually choosing.&quot;</em> <br>
+— Armin Arlelt (Shingeki no Kyojin)
