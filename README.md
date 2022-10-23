@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;The chosen one? I feel more like the frozen one.&quot;</em> <br>
-— Ash Ketchum (Pokémon)
+<em>&quot;You donÂ´t need a reason to cry. All you need to feel the warmth that dwells in your chest.&quot;</em> <br>
+— Lucy Heartfilia (Fairy Tail)
