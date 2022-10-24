@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;A computer would deserve to be called intelligent if it could deceive a human into believing that it was human.&quot;</em> <br>
-— Alan Turing
+<em>&quot;Time to home!&quot;</em> <br>
+— Aksal
