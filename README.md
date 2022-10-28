@@ -1,4 +1,4 @@
-### Nite nite 😴
+### Happy weekend 🥰
 Heya 👋 I'm Aksal. I'm a software engineer from 🇮🇩 Indonesia.
 
 My code is like a girl (perfect and beautiful), so, I'm always found that only me who can understand her. Wkwk, just kidding.
@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;Have a nice dream!&quot;</em> <br>
-— Aksal
+<em>&quot;Life's interesting because there's a limit to it. The thrill of not knowing when it ends is what gives you the awareness of being alive.&quot;</em> <br>
+— Nonomiya (Gekkou)
