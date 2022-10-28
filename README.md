@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;There are only two kinds of languages: the ones people complain about and the ones nobody uses.&quot;</em> <br>
-— Bjarne Stroustrup
+<em>&quot;Time to home!&quot;</em> <br>
+— Aksal
