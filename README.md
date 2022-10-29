@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;History books are rewritten with the changing of times. At any rate, classroom lectures are worlds apart from the battlefield.&quot;</em> <br>
-— Zess (Broken Blade)
+<em>&quot;I learned that no matter how much you want something, no matter how much you scream for it, sometimes it's out of your reach.&quot;</em> <br>
+— Takashi Natsume (Natsume Yuujinchou)
