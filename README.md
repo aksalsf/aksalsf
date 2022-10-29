@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;I learned that no matter how much you want something, no matter how much you scream for it, sometimes it's out of your reach.&quot;</em> <br>
-— Takashi Natsume (Natsume Yuujinchou)
+<em>&quot;I've forged my own way alone. While you were consoling and fighting with one another, I faced everything myself, head on. Now look at how strong I am.&quot;</em> <br>
+— Hachiman Hikigaya (Yahari Ore No Seishun Love Come Wa Machigatteiru)
