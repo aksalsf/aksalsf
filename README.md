@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;I've forged my own way alone. While you were consoling and fighting with one another, I faced everything myself, head on. Now look at how strong I am.&quot;</em> <br>
-— Hachiman Hikigaya (Yahari Ore No Seishun Love Come Wa Machigatteiru)
+<em>&quot;If I kill you, that means I'll be the one closest to you when you're on your deathbed. Isn't it romantic?&quot;</em> <br>
+— Senjougahara Hitagi (Bakemonogatari)
