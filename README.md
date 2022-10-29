@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;Humans shouldn't just disregard something they cannot comprehend while also trying to define it.&quot;</em> <br>
-— Keima Katsuragi (Kami Nomi zo Shiru Sekai)
+<em>&quot;History books are rewritten with the changing of times. At any rate, classroom lectures are worlds apart from the battlefield.&quot;</em> <br>
+— Zess (Broken Blade)
