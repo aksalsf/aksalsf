@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;They'll use you as much as they want; then once they're done with you, they'll all disappear.&quot;</em> <br>
-— Mei Tachibana (Sukitte Ii Na Yo)
+<em>&quot;The hole in one's heart gets filled by others around you. Friends won't flock to someone who abandons the memory of his friends and gives up on the world just because things don't go the way he wants them to. That won't help fill the hole in your heart. And people won't help those who run away and do nothing. As long as you don't give up, there will always be salvation.&quot;</em> <br>
+— Hatake Kakashi (Naruto)
