@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;Your happiness is in a much more vast world. Look for it. Find it. (to Hatsuharu)&quot;</em> <br>
-— Sohma Rin (Fruits Basket)
+<em>&quot;Yeah, we've become friends. When you're in the same party, there will be times when things don't go smoothly, when you get angry, and when you fight. But they really are your precious friends. It doesn't matter why you became friends, but that you are friends at this moment.&quot;</em> <br>
+— Haruhiro (Hai to Gensou no Grimgar)
