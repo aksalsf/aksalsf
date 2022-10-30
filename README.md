@@ -12,5 +12,6 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;The hole in one's heart gets filled by others around you. Friends won't flock to someone who abandons the memory of his friends and gives up on the world just because things don't go the way he wants them to. That won't help fill the hole in your heart. And people won't help those who run away and do nothing. As long as you don't give up, there will always be salvation.&quot;</em> <br>
-— Hatake Kakashi (Naruto)
+<em>&quot;No, I do want to be the hero... But since it’s a rare chance, I want to repay what I borrowed. Uu... how should I say it? I’m really troubled. I bet everything on such an important match, yet I didn't accomplish anything before this thing ends. I can only wish that others can finish off this wish that I would never give up on. Should I be depressed, or angry, or is it an inexplicable feeling... I don't know how to express it, but anyway—
+I’M JUST UNHAPPY THAT I’M NOT THE PROTAGONIST TODAY!&quot;</em> <br>
+— Yoshii Akihisa (Baka to Test to Shoukanjuu)
