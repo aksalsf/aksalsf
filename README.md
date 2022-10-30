@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;I've heard similar threats from a number of poor fools whose memories I keep alive by dancing on their tombstones!&quot;</em> <br>
-— Inuyasha (Inuyasha)
+<em>&quot;They'll use you as much as they want; then once they're done with you, they'll all disappear.&quot;</em> <br>
+— Mei Tachibana (Sukitte Ii Na Yo)
