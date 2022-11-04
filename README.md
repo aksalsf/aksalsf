@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;A good programmer always collaborating, even when having lunch!&quot;</em> <br>
-— Aksal
+<em>&quot;The business of software building isn't really high-tech at all. It's most of all a business of talking to each other and writing things down.&quot;</em> <br>
+— Tom DeMarco
