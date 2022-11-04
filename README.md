@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening 👋
 Heya 👋 I'm Aksal. I'm a software engineer from 🇮🇩 Indonesia.
 
 My code is like a girl (perfect and beautiful), so, I'm always found that only me who can understand her. Wkwk, just kidding.
@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;The business of software building isn't really high-tech at all. It's most of all a business of talking to each other and writing things down.&quot;</em> <br>
-— Tom DeMarco
+<em>&quot;Ed Adams of IBM found that 80% of the reliability problems are caused by only 2% of the defects.&quot;</em> <br>
+— Daniel T. Barry
