@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;To hate something that you used to love is such a painful feeling.&quot;</em> <br>
-— Ciel Phantomhive (Kuroshitsuji)
+<em>&quot;Rarely does one have the chance to exchange blows with heroes from another age. And with the chance to fight as many as six, I can't allow one of them to fall right now. Look at Saber and Lancer. Both are valiant warriors I would love to duel with. It'd be a pity to let either die.&quot;</em> <br>
+— Rider (Fate/zero)
