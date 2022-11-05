@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;That day four years ago... When I wasn't needed by anyone. When nobody cared about me. When I had given up on living and was about to jump off the roof of a building... FB saved me with a single message. I didn't care if it was a joke or not. I was just happy that somebody knew... that I was alive... that it was OK for me to live...&quot;</em> <br>
-— Moeka Kiryū (Steins;Gate)
+<em>&quot;MAKA CHOP!&quot;</em> <br>
+— Maka Albarn (Soul Eater)
