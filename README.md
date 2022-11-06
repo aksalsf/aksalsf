@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;Even if other people think it’s meaningless, it’s disgusting for me to quit, even when the possibility is 0. Therefore, I will never... Give up !&quot;</em> <br>
-— Tetsuya Kuroko (Kuroko No Basket)
+<em>&quot;All I ever gained from abandoning something and running away were regrets I couldn't do anything about, and a version of myself that could only resent others. If I come to hate myself, even living becomes a sin. Remorse alone will become my punishment. That's why I've decided to take action of my own free will, so I'll never have the same regrets again.&quot;</em> <br>
+— Amane Suou (Grisaia no Rakuen)
