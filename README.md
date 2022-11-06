@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;Dangerous toys are fun, but you can get hurt.&quot;</em> <br>
-— Vash the Stampede (Trigun)
+<em>&quot;If you want to grant your own wish, then you should clear your own path to it.&quot;</em> <br>
+— Okabe Rintarou (Steins;Gate)
