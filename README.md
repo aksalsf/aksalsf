@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;If you want to grant your own wish, then you should clear your own path to it.&quot;</em> <br>
-— Okabe Rintarou (Steins;Gate)
+<em>&quot;Never give up without even trying. Do what you can, no matter how small the effect it may have!&quot;</em> <br>
+— Ōnoki (Naruto)
