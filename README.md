@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;It was a turning point in my programming career when I realized that I didn't have to win every argument.&quot;</em> <br>
-— Ward Cunningham
+<em>&quot;Time to home!&quot;</em> <br>
+— Aksal
