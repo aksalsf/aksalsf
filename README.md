@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening 👋
 Heya 👋 I'm Aksal. I'm a software engineer from 🇮🇩 Indonesia.
 
 My code is like a girl (perfect and beautiful), so, I'm always found that only me who can understand her. Wkwk, just kidding.
@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;I characterize functional programming as a radical and elegant attack on the whole enterprise of writing programs.&quot;</em> <br>
-— Simon Peyton Jones
+<em>&quot;The magic of a computer lies in its ability to become almost anything you can imagine, as long as you can explain exactly what that is.&quot;</em> <br>
+— Danny Hillis
