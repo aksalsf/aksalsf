@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;More computing sins are committed in the name of efficiency (without necessarily achieving it) than for any other single reason - including blind stupidity.&quot;</em> <br>
-— William Wulf
+<em>&quot;Time to home!&quot;</em> <br>
+— Aksal
