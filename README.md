@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening 👋
 Heya 👋 I'm Aksal. I'm a software engineer from 🇮🇩 Indonesia.
 
 My code is like a girl (perfect and beautiful), so, I'm always found that only me who can understand her. Wkwk, just kidding.
@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;When I invented the web, I didn't have to ask anyone's permission.&quot;</em> <br>
-— Tim Berners-Lee
+<em>&quot;More computing sins are committed in the name of efficiency (without necessarily achieving it) than for any other single reason - including blind stupidity.&quot;</em> <br>
+— William Wulf
