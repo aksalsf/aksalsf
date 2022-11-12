@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;Family is the society that you came into contact with first; The people who influence you first. But if that first society banishes you, there will be another society that accepts you.&quot;</em> <br>
-— Reisi Munakata (Project K: Days Of Blue)
+<em>&quot;Don't be so quick to throw away your life. No matter how disgraceful or embarrassing it may be, you need to keep struggling to find your way out until the very end.&quot;</em> <br>
+— Clare (Claymore)
