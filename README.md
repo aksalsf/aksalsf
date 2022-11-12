@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;To believe in someone can be a dangerous thing.&quot;</em> <br>
-— TimeKeeper (Gunslinger Stratos: The Animation)
+<em>&quot;Family is the society that you came into contact with first; The people who influence you first. But if that first society banishes you, there will be another society that accepts you.&quot;</em> <br>
+— Reisi Munakata (Project K: Days Of Blue)
