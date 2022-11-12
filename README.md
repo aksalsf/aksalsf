@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;Humans tend to think logically, but their actions are driven by emotions...&quot;</em> <br>
-— Sumire Muroto (Black Bullet)
+<em>&quot;To believe in someone can be a dangerous thing.&quot;</em> <br>
+— TimeKeeper (Gunslinger Stratos: The Animation)
