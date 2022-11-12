@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;<em>to Urameshi</em> Sacrificing your life to save billions of others. You've lit our torches and I won't let your death be in vain... even if it means I'll be joining you soon.&quot;</em> <br>
-— Kazuma Kuwabara (Yu Yu Hakusho)
+<em>&quot;The moment you find the courage to give up your life for someone, would be the moment you understand love.&quot;</em> <br>
+— Kenshin Himura (Samurai X: Trust &amp; Betrayal)
