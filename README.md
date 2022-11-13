@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;Those who do well, respect their chances. Those who pass on chances, may never be presented with that chance again.&quot;</em> <br>
-— Detective Conan (Detective Conan)
+<em>&quot;Music is freedom.&quot;</em> <br>
+— Kaori Miyazono (Shigatsu Wa Kimi No Uso)
