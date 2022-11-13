@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;Whether you walk or run, the destination won't change. So then... You might as well run there!!!&quot;</em> <br>
-— Itsuki Minami (Air Gear)
+<em>&quot;I envy you people. What I sought, but could not obtain. What I obtained, but could not obtain. Many things slipped out between my fingers, no matter what commandment I used.&quot;</em> <br>
+— Kotomine Kirei (Fate/stay night)
