@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;There are reasons each of us are born. We have to find those reasons.&quot;</em> <br>
-— Iroh (Avatar: The Last Airbender)
+<em>&quot;Damn that sister of mine! She's always talking about our father, but what did that baldy ever do for us?! He just played Othello with us from time to time!&quot;</em> <br>
+— Shimura Shinpachi (Gintama)
