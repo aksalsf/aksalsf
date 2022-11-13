@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;Damn that sister of mine! She's always talking about our father, but what did that baldy ever do for us?! He just played Othello with us from time to time!&quot;</em> <br>
-— Shimura Shinpachi (Gintama)
+<em>&quot;You were always smiling, real friendly like, but the way you smiled was so empty it hurt to watch you.&quot;</em> <br>
+— Nicholas D. Wolfwood (Trigun)
