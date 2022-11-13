@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;You were always smiling, real friendly like, but the way you smiled was so empty it hurt to watch you.&quot;</em> <br>
-— Nicholas D. Wolfwood (Trigun)
+<em>&quot;Those who do well, respect their chances. Those who pass on chances, may never be presented with that chance again.&quot;</em> <br>
+— Detective Conan (Detective Conan)
