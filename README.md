@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;A good programmer always collaborating, even when having lunch!&quot;</em> <br>
-— Aksal
+<em>&quot;The code you write makes you a programmer. The code you delete makes you a good one. The code you don't have to write makes you a great one.&quot;</em> <br>
+— Mario Fusco
