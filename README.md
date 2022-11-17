@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;The idea behind digital computers may be explained by saying that these machines are intended to carry out any operations which could be done by a human computer.&quot;</em> <br>
-— Alan Turing
+<em>&quot;Time to home!&quot;</em> <br>
+— Aksal
