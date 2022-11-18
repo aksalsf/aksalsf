@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;A good programmer always collaborating, even when having lunch!&quot;</em> <br>
-— Aksal
+<em>&quot;When you build a prototype, there is always the risk that someone will say &quot;that's good enough, ship it&quot;. One way to minimize the risk of a prototype being put into production is to write the prototype in using a language or tool that you couldn't possibly use for a production version.&quot;</em> <br>
+— Joseph Yoder (computer scientist)
