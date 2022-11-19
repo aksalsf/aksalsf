@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;Ha ha ha ha! Promise me something, if you're gonna sue, go after the spirit first, okay?&quot;</em> <br>
-— Franken Stein (Soul Eater)
+<em>&quot;The future of humanity will be doomed. Having said that, I’m not about to sit around while we all get slaughtered.&quot;</em> <br>
+— Jean Kirstein (Attack on Titan)
