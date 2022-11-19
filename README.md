@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;Honestly, how meaningless.. For something called love, which has neither meaning nor form. Laughable, isn't it?&quot;</em> <br>
-— Sebastian Michaelis (Kuroshitsuji)
+<em>&quot;There are people who can't act unless they're faced with a problem. Unless they find their reason. All I was left with was the sinking suspicion that I'd gone horribly wrong.&quot;</em> <br>
+— Hachiman Hikigaya (Yahari Ore no Seishun Love Come wa Machigatteiru. Zoku)
