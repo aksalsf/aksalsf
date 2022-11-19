@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;Everyone gets help from someone else at some point in their lives. So someday, you should help someone too.&quot;</em> <br>
-— Suzuha Amane (Steins Gate)
+<em>&quot;I dunno, getting rid of stuff that doesn't even exist... it's basically just counselling, isn't it?&quot;</em> <br>
+— Rin Okumura (Ao no Exorcist)
