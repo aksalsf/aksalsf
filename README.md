@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;Cheers, mate. No work, just chill. Cool, yeh!&quot;</em> <br>
-— Aksal
+<em>&quot;A samurai doesn't need a reason to do what's right. If you want to protect her, you must draw your sword.&quot;</em> <br>
+— Gintoki Sakata (Gintama)
