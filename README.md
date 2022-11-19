@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;I dunno, getting rid of stuff that doesn't even exist... it's basically just counselling, isn't it?&quot;</em> <br>
-— Rin Okumura (Ao no Exorcist)
+<em>&quot;Cheers, mate. No work, just chill. Cool, yeh!&quot;</em> <br>
+— Aksal
