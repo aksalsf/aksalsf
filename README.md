@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;If a member of one’s family is killed by a thief, then one should hate the thief. But people will miss aim their hatred — why should they go to where the thief hides? If one loses a family member to sickness, then one should hate the disease. It is not the doctor’s fault; yet people will hate the doctor.&quot;</em> <br>
-— Lelei la Lelena (Gate: Jieitai Kanochi nite Kaku Tatakaeri)
+<em>&quot;[To Kyo] Perhaps if you'd just die you'd be reincarnated as something more pleasant.&quot;</em> <br>
+— Sohma Yuki (Fruits Basket)
