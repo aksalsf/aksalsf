@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;A person who can't even take care of himself has no right to have a pet.&quot;</em> <br>
-— Takafumi Yokozawa (Sekai Ichi Hatsukoi)
+<em>&quot;Cheers, mate. No work, just chill. Cool, yeh!&quot;</em> <br>
+— Aksal
