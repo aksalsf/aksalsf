@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;[To Kyo] Perhaps if you'd just die you'd be reincarnated as something more pleasant.&quot;</em> <br>
-— Sohma Yuki (Fruits Basket)
+<em>&quot;Dividing an impossibly large task into smaller solvable problems, is a programmer's job.&quot;</em> <br>
+— Akasaka Ryuunosuke (Sakurasou no Pet na Kanojo)
