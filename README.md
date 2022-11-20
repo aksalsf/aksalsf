@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;There are three kinds of secrets. Something that you hide at the bottom of your heart because you don't want it to be mentioned. Something that you can't say even if you want to and something that you hope someone asks about even though you're hiding it.&quot;</em> <br>
-— Kazuhiko Yukimi (Nabari no Ou)
+<em>&quot;A person who can't even take care of himself has no right to have a pet.&quot;</em> <br>
+— Takafumi Yokozawa (Sekai Ichi Hatsukoi)
