@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;Cleaning code does NOT take time. NOT cleaning code does take time.&quot;</em> <br>
-— Robert C. Martin
+<em>&quot;Time to home!&quot;</em> <br>
+— Aksal
