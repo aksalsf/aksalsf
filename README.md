@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;Computer Science is no more about computers than astronomy is about telescopes.&quot;</em> <br>
-— Edsger W. Dijkstra
+<em>&quot;Time to home!&quot;</em> <br>
+— Aksal
