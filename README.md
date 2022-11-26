@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;They're human beings who are more appealing that real girls with warm blood flowing through their veins! That's what you have to be!&quot;</em> <br>
-— Tomoya Aki (Saenai Heroine no Sodatekata)
+<em>&quot;Everyone can make a choice after they have learned what it will result in. It is so easy to say we should have done it this way afterwards. But you can’t know what your choice will result in before actually choosing.&quot;</em> <br>
+— Armin Arlert (Attack on Titan)
