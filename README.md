@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;Don't cry; it's pathetic. Crying won't change anything. The world is never kind to anyone.&quot;</em> <br>
-— Ciel Phantomhive (Kuroshitsuji: Book of Circus)
+<em>&quot;We can't live if we don't keep running forward.&quot;</em> <br>
+— Natsu Dragneel (Fairy Tail)
