@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;I have a lot of different words desperately trying to get my message across. However, you, were able to pass on what you wanted to say with just a few of them.&quot;</em> <br>
-— Akihiko Usami (Junjou Romantica)
+<em>&quot;They're human beings who are more appealing that real girls with warm blood flowing through their veins! That's what you have to be!&quot;</em> <br>
+— Tomoya Aki (Saenai Heroine no Sodatekata)
