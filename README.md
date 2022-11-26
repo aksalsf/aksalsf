@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;Everyone can make a choice after they have learned what it will result in. It is so easy to say we should have done it this way afterwards. But you can’t know what your choice will result in before actually choosing.&quot;</em> <br>
-— Armin Arlert (Attack on Titan)
+<em>&quot;Don't cry; it's pathetic. Crying won't change anything. The world is never kind to anyone.&quot;</em> <br>
+— Ciel Phantomhive (Kuroshitsuji: Book of Circus)
