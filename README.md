@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;We can't live if we don't keep running forward.&quot;</em> <br>
-— Natsu Dragneel (Fairy Tail)
+<em>&quot;Humans love hurting others when they can´t be hurt themselves. Like killing animals, or flaming people online. And if the target makes a mistake, it fans the flames even more, and the bully gets even more fun out of it.&quot;</em> <br>
+— Yozora Mikazuki (Boku wa Tomodachi ga Sukunai)
