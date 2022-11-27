@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;Heroes and villains both thrive on violence, but we’re still categorized. You’re good You’re evil. That’s how it is! Symbol of peace? Hah! In the end you’re just a tool for violence, made to keep us down. And violence only breeds more violence.&quot;</em> <br>
-— Shigaraki Tomura (My Hero Academia)
+<em>&quot;The strong feed upon the weak. It’s such an obligingly simple rule. Except in this world, my friends tried to be strong.&quot;</em> <br>
+— Armin Arlert (Attack on Titan)
