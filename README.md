@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;It takes more courage to speak the truth than it does to wield a sword.&quot;</em> <br>
-— Sehara (One thousand and one nights)
+<em>&quot;It's okay if you don't understand, just stay with me, watch me, and slowly come to understand.&quot;</em> <br>
+— Agata Katsuhira (Kiznaiver)
