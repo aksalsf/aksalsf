@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening 👋
 Heya 👋 I'm Aksal. I'm a software engineer from 🇮🇩 Indonesia.
 
 My code is like a girl (perfect and beautiful), so, I'm always found that only me who can understand her. Wkwk, just kidding.
@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;Deleted code is debugged code.&quot;</em> <br>
-— Jeff Sickel
+<em>&quot;The most powerful programming language is Lisp. If you don't know Lisp (or its variant, Scheme), you don't know what it means for a programming language to be powerful and elegant. Once you learn Lisp, you will understand what is lacking in most other languages.&quot;</em> <br>
+— Richard Stallman
