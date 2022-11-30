@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening 👋
 Heya 👋 I'm Aksal. I'm a software engineer from 🇮🇩 Indonesia.
 
 My code is like a girl (perfect and beautiful), so, I'm always found that only me who can understand her. Wkwk, just kidding.
@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;Perhaps the central problem we face in all of computer science is how we are to get to the situation where we build on top of the work of others rather than redoing so much of it in a trivially different way.&quot;</em> <br>
-— Richard Hamming
+<em>&quot;A lot of companies hire people to tell them what to do. We hire people to tell us what to do.&quot;</em> <br>
+— Steve Jobs
