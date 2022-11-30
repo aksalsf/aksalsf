@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;A lot of companies hire people to tell them what to do. We hire people to tell us what to do.&quot;</em> <br>
-— Steve Jobs
+<em>&quot;Time to home!&quot;</em> <br>
+— Aksal
