@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;There is never enough time to do it right, but there is always enough time to fix it or to do it over.&quot;</em> <br>
-— Daniel T. Barry
+<em>&quot;Time to home!&quot;</em> <br>
+— Aksal
