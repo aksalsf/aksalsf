@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;We will have lost only the moment humans give up and stop fighting. As long as they keep on fighting, our defeat is not certain.&quot;</em> <br>
-— Mike Zacharias (Shingeki no Kyojin)
+<em>&quot;If the dark sky is me, then the sparkling stars are Tsubaki.&quot;</em> <br>
+— Black Star (Soul Eater)
