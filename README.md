@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;Sometimes the truth can hurt others more than a lie.&quot;</em> <br>
-— Nonomiya (Gekkou)
+<em>&quot;Why..? How can she say things like that so easily? If we hear that from our parents, what are we supposed to do? Rin thinks that she's been &quot;bad&quot;. But who do you think is the one who's being &quot;bad&quot; here!?! Having people take their anger out on us, being laughed at, not being taken seriously. We kids get hurt just like you do! Why can't you understand something so simple?! Apologize! APOLOGIZE! APOLOGIZE TO RIN!! [Rin's mom shuts the door] HEY!! I TOLD YOU TO APOLOGIZE!!&quot;</em> <br>
+— Sohma Hatsuharu (Fruits Basket)
