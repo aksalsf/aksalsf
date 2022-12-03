@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;I'm always just waiting. Waiting for someone to reach out to me. But at the same time, I'm really self-conscious and a coward.&quot;</em> <br>
-— Chizuru Ooshima (Tonari No Kaibutsu-kun)
+<em>&quot;Cheers, mate. No work, just chill. Cool, yeh!&quot;</em> <br>
+— Aksal
