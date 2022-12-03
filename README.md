@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;Of my five older siblings, two died on the first mission, then two more on the second. Then on the sixth mission, the last one... Died as well. I felt sad, somewhat, but more than that, I felt ashamed of their incompetence.&quot;</em> <br>
-— Soi Fon (Bleach)
+<em>&quot;We will have lost only the moment humans give up and stop fighting. As long as they keep on fighting, our defeat is not certain.&quot;</em> <br>
+— Mike Zacharias (Shingeki no Kyojin)
