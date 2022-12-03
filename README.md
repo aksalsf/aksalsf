@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;If the dark sky is me, then the sparkling stars are Tsubaki.&quot;</em> <br>
-— Black Star (Soul Eater)
+<em>&quot;Sometimes the truth can hurt others more than a lie.&quot;</em> <br>
+— Nonomiya (Gekkou)
