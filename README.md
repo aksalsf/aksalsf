@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;What are you smoking? Don't you see how cool I am? You think I'm going to settle for a flat chested girl like her?&quot;</em> <br>
-— Soul Evans (Soul Eater)
+<em>&quot;I want to be the only one... who can help the one I care about.&quot;</em> <br>
+— Sohma Hiro (Fruits Basket)
