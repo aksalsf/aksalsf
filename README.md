@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;Seems appropriate for Nicol. A weapon fit for a coward.&quot;</em> <br>
-— Dearka Elsman (Mobile Suit Gundam Seed)
+<em>&quot;Mysterious things are everywhere. So bizarre as often as you can hear of them. Without witness, with sight unseen, without a care it is simply a phenomenon. Merely not of concern. In this world, mankind itself has its own fantastic wonders.&quot;</em> <br>
+— Yuuko Ichihara (xxxHOLiC)
