@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;There are no convenient miracles, and there is logic that should be inviolable.&quot;</em> <br>
-— Hakaze Kusaribe (Zetsuen No Tempest)
+<em>&quot;When you aim to reach high places, you may find yourself on narrow footing and feel disheartened. And then your confidence will falter, and you will find it ever harder to believe in yourself. If you ever feel that you can't believe in yourself, please believe in your friends.&quot;</em> <br>
+— Sakamoto (Sakamoto desu ga?)
