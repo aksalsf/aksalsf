@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;Mysterious things are everywhere. So bizarre as often as you can hear of them. Without witness, with sight unseen, without a care it is simply a phenomenon. Merely not of concern. In this world, mankind itself has its own fantastic wonders.&quot;</em> <br>
-— Yuuko Ichihara (xxxHOLiC)
+<em>&quot;What are you smoking? Don't you see how cool I am? You think I'm going to settle for a flat chested girl like her?&quot;</em> <br>
+— Soul Evans (Soul Eater)
