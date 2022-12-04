@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;If you hurt someone, you must be prepared to receive the same amount in return.&quot;</em> <br>
-— Mana Ouma (Guilty Crown)
+<em>&quot;Seems appropriate for Nicol. A weapon fit for a coward.&quot;</em> <br>
+— Dearka Elsman (Mobile Suit Gundam Seed)
