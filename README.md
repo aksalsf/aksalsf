@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;Then I ask you, what do you define as the beginning of the sky? At one hundred meter or even one thousand meters, it isn't much different from right here. The sole difference is the air density and water concentration. So, this is where sky begins. Anything above the earth belongs to the domain of sky.&quot;</em> <br>
-— Yoshitsune (Air Gear)
+<em>&quot;To unite dreams beneath a banner of conquest. I praise your efforts. But, warriors... did you not understand? That all dreams must disappear when the dreamer wakes. Every last one of them. Therefore, it was inevitable that I would stand in your way. King of Conquerors, know the end of your eternal dream. I, myself, shall show you harsh reality. Now awaken, Ea! A worthy stage has been set for you! Look up and behold... Enuma Elish!&quot;</em> <br>
+— Gilgamesh (Fate/zero)
