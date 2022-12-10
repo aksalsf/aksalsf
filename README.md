@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;Don't mistake borrowed power for your own ability!&quot;</em> <br>
-— Lelouch Lamperouge (Code Geass: Lelouch of the Rebellion)
+<em>&quot;The weight of my sword is the weight of my pride. The wound from my battle with you is an honor, not a fetter.&quot;</em> <br>
+— Saber (Fate/zero)
