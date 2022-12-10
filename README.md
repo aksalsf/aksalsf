@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;To unite dreams beneath a banner of conquest. I praise your efforts. But, warriors... did you not understand? That all dreams must disappear when the dreamer wakes. Every last one of them. Therefore, it was inevitable that I would stand in your way. King of Conquerors, know the end of your eternal dream. I, myself, shall show you harsh reality. Now awaken, Ea! A worthy stage has been set for you! Look up and behold... Enuma Elish!&quot;</em> <br>
-— Gilgamesh (Fate/zero)
+<em>&quot;Don't mistake borrowed power for your own ability!&quot;</em> <br>
+— Lelouch Lamperouge (Code Geass: Lelouch of the Rebellion)
