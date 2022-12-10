@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;I don't know how to give up!!&quot;</em> <br>
-— Tsunayoshi Sawada (Katekyo Hitman Reborn!)
+<em>&quot;<em>to Inuyasha</em> You fight as though you're still a child.&quot;</em> <br>
+— Sesshomaru (Inuyasha)
