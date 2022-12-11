@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;A dog's happiness is measured by how useful he is to his master.&quot;</em> <br>
-— Taiga Aisaka (Toradora!)
+<em>&quot;You and I...our levels are as distant as the earth from the heavens. ...Must I spell it out for you? I have discarded my left arm, discarded my left leg, and yet even then I have not nearly lowered myself to your level.&quot;</em> <br>
+— Kuchiki Byakuya (Bleach)
