@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;The moment people come to know love, they run the risk of carrying hate.&quot;</em> <br>
-— Obito Uchiha (Naruto Shippuuden)
+<em>&quot;Nerd violence...&quot;</em> <br>
+— Kurama (Yu Yu Hakusho)
