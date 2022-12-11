@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;Games are fun because you can do things you couldn’t in real life, right?&quot;</em> <br>
-— Akatsuki (Log Horizon)
+<em>&quot;If this is real, then I want to change the future.&quot;</em> <br>
+— Takemichi Hanagaki (Tokyo Revengers)
