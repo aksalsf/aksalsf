@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;If this is real, then I want to change the future.&quot;</em> <br>
-— Takemichi Hanagaki (Tokyo Revengers)
+<em>&quot;If it's just a game, at least be brave enough to run towards the guns and die!&quot;</em> <br>
+— Asada Shino (Sword Art Online II)
