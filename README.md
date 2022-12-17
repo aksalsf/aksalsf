@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;He who forgives and acknowledges himself... that is what it truly means to be strong!&quot;</em> <br>
-— Itachi Uchiha (Naruto)
+<em>&quot;There isn't anything that's evil to everyone. Even the worst evil saves something. On the other hand, even the greatest good hurts someone. The phrase &quot;There are no absolutes in this world&quot; means there isn't any absolute good or absolute evil.&quot;</em> <br>
+— Rouka Numachi (Hanamonogatari)
