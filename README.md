@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;There isn't anything that's evil to everyone. Even the worst evil saves something. On the other hand, even the greatest good hurts someone. The phrase &quot;There are no absolutes in this world&quot; means there isn't any absolute good or absolute evil.&quot;</em> <br>
-— Rouka Numachi (Hanamonogatari)
+<em>&quot;I don't believe in god. There's no proof he exists. In a world where there isn't even proof of the future, the past exists. Even if it's tainted with misunderstandings and delusions, if the people themselves believe in it, the past is the truth to them. And, if you base your actions or your life around it, in a way, it's a type of god itself.&quot;</em> <br>
+— Izaya Orihara (Durarara!!)
