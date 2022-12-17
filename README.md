@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;Our crying for them won't bring the dead back to life.&quot;</em> <br>
-— Lelouch Lamperouge (Code Geass: Lelouch of the Rebellion)
+<em>&quot;They want to believe that's true and when someone wants to believe something is true, they usually will.&quot;</em> <br>
+— Henrietta (Log Horizon)
