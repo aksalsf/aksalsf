@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;Making sure I have no regrets... that would just be self-serving, nothing more. It's all right. I mean, this is a great memory in itself, right?&quot;</em> <br>
-— Maiko Shuu (Nisekoi)
+<em>&quot;Sometimes, it's necessary to look back at the past in order to move on to the future.&quot;</em> <br>
+— Okita Sougo (Gintama)
