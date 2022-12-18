@@ -12,5 +12,6 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;Don’t push your feelings onto others. No matter what pretty words you use, your kindness is just hypocrisy. You’re pretending to be nice only to make yourself feel better.&quot;</em> <br>
-— Hallelujah Haptism (Mobile Suit Gundam 00)
+<em>&quot;Maybe we can't help feeling scared alone! But we're all right here, together! We've got out friends close by!
+Now there's nothing to fear, because we are not alone!&quot;</em> <br>
+— Natsu Dragneel (Fairy Tail)
