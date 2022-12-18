@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;Sometimes, it's necessary to look back at the past in order to move on to the future.&quot;</em> <br>
-— Okita Sougo (Gintama)
+<em>&quot;Don’t push your feelings onto others. No matter what pretty words you use, your kindness is just hypocrisy. You’re pretending to be nice only to make yourself feel better.&quot;</em> <br>
+— Hallelujah Haptism (Mobile Suit Gundam 00)
