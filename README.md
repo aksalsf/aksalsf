@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;The peaceful world I'm fighting for is one where everyone has a smile on their face, not one where I have to pretend I didn't see you make my friend cry. I don't think that kind of peace is worth fighting for. And I don't think it's worth making sacrifices to achieve it.&quot;</em> <br>
-— Emi Yusa (Hataraku Maou-sama!)
+<em>&quot;Cheers, mate. No work, just chill. Cool, yeh!&quot;</em> <br>
+— Aksal
