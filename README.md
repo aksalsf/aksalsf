@@ -12,6 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;Maybe we can't help feeling scared alone! But we're all right here, together! We've got out friends close by!
-Now there's nothing to fear, because we are not alone!&quot;</em> <br>
-— Natsu Dragneel (Fairy Tail)
+<em>&quot;This is the first time in my life that I've been provoked to hit a woman.&quot;</em> <br>
+— Light Yagami (Death Note)
