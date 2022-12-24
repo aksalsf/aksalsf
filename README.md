@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;Does losing prove that you are weak? Isn't losing difficult for all of you? A challenge where, after ending up on your hands and knees, you must see if you can stand up again? If you stay on your hands and knees, that proves that you are weak.&quot;</em> <br>
-— Ittetsu Takeda (Haikyuu!!)
+<em>&quot;<em>to Edward</em> So, you hooked up with your mechanic, huh? Not too shabby, sprout.&quot;</em> <br>
+— Maes Hughes (Fullmetal Alchemist)
