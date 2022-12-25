@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;People share only one common fate... death.&quot;</em> <br>
-— Neji Hyuuga (Naruto)
+<em>&quot;It must be the way you look, Vash the Stampede. Your very existence seems to cause me undue irritation.&quot;</em> <br>
+— Legato Bluesummers (Trigun)
