@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;You can catch a mouse that's shut in a cage. However, catching a mouse in a field is like trying to catch a cloud.&quot;</em> <br>
-— Beatrice (Umineko no Naku Koro ni)
+<em>&quot;It would be nice to live in a kind world without any fear, without any troubles, without hurting anybody, without ever being hurt; only doing the right thing. I wish I could reach this kind world by the shortest path possible.&quot;</em> <br>
+— Akito Sohma (Fruits Basket)
