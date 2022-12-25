@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;There are always lazy people to deal with when you act as a group. Splitting into pairs and handling out jobs is more efficient.&quot;</em> <br>
-— Kazuki Kazami (Grisaia no Kajitsu)
+<em>&quot;You know, I really can't stand it when guys pick on people weaker than them...but I guess I'll do it to you anyway!&quot;</em> <br>
+— Kazuma Kuwabara (Yu Yu Hakusho)
