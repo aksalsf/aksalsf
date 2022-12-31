@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;The things we can't obtain are the most beautiful ones.&quot;</em> <br>
-— Archer (Fate/stay night)
+<em>&quot;It is called the memories of the body. When the mind forgets, the body remembers for it.&quot;</em> <br>
+— Yūko Ichihara (Tsubasa Reservoir Chronicles)
