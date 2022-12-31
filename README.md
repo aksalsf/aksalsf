@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;You sent me into a battle armed with a mere hunch?&quot;</em> <br>
-— Inuyasha (Inuyasha)
+<em>&quot;Nobody will be happy being told off for something they never did.&quot;</em> <br>
+— Sakamoto Yuuji (Baka to Test to Shoukanjuu)
