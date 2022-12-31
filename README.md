@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;SILENCE! This is number 349 of the 1,000 provisions you must observe. Meisters should eat everything regardless of personal likes and dislikes. Never say anything as selfish as &quot;I don't like carrots.&quot; again.&quot;</em> <br>
-— Excalibur (Soul Eater)
+<em>&quot;Haven't you ever thought that life would be better if it was a game?&quot;</em> <br>
+— Dong Taebin (Dice: The Cube That Changes Everything)
