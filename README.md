@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;It is called the memories of the body. When the mind forgets, the body remembers for it.&quot;</em> <br>
-— Yūko Ichihara (Tsubasa Reservoir Chronicles)
+<em>&quot;If many negative emotions gather, they will end up influencing the entire world. But on the other hand, it is also possible to gather positive emotions and lead the world in that direction.&quot;</em> <br>
+— Scar's Brother (Fullmetal Alchemist: Brotherhood)
