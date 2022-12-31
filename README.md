@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;If many negative emotions gather, they will end up influencing the entire world. But on the other hand, it is also possible to gather positive emotions and lead the world in that direction.&quot;</em> <br>
-— Scar's Brother (Fullmetal Alchemist: Brotherhood)
+<em>&quot;You sent me into a battle armed with a mere hunch?&quot;</em> <br>
+— Inuyasha (Inuyasha)
