@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;People who can't throw something important away, can never hope to change anything.&quot;</em> <br>
-— Armin Arlelt (Shingeki no Kyojin)
+<em>&quot;Give advice and good guidance, then halt if such is of no avail. Do not disgrace yourself for it.&quot;</em> <br>
+— Takaaki Morofushi (Detective Conan)
