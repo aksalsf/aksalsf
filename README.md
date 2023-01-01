@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;I don't intentionally ignore anyone. Their words simply don't resonate with me.&quot;</em> <br>
-— Asaba Yuki (Kimi To Boku.)
+<em>&quot;Hey sis, I've been wondering. How come everyone always closes their eyes when they sneeze? Is it to keep their eyes from popping out of their heads?&quot;</em> <br>
+— Patricia Thompson (Soul Eater)
