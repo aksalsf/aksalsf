@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;Mom... Mom in heaven.... Does love come suddenly like this&quot;</em> <br>
-— Haruhi Fujioka (Ouran High School Host Club)
+<em>&quot;Death is never an apology.&quot;</em> <br>
+— Brook (One Piece)
