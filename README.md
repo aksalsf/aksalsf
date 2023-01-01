@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;Hey sis, I've been wondering. How come everyone always closes their eyes when they sneeze? Is it to keep their eyes from popping out of their heads?&quot;</em> <br>
-— Patricia Thompson (Soul Eater)
+<em>&quot;People who can't throw something important away, can never hope to change anything.&quot;</em> <br>
+— Armin Arlelt (Shingeki no Kyojin)
