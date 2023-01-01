@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;Death is never an apology.&quot;</em> <br>
-— Brook (One Piece)
+<em>&quot;I don't intentionally ignore anyone. Their words simply don't resonate with me.&quot;</em> <br>
+— Asaba Yuki (Kimi To Boku.)
