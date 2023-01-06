@@ -1,4 +1,4 @@
-### Nite nite 😴
+### Happy weekend 🥰
 Heya 👋 I'm Aksal. I'm a software engineer from 🇮🇩 Indonesia.
 
 My code is like a girl (perfect and beautiful), so, I'm always found that only me who can understand her. Wkwk, just kidding.
@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;Have a nice dream!&quot;</em> <br>
-— Aksal
+<em>&quot;You make me sick, you and your pathetic girly whining... You're not a MAN! You're just a little kitty-cat who's afraid to fight! Know what?! YOU CAN GO TO HELL! HAHAHAHAHA! UGH! (gets kicked by Kyo in the face)&quot;</em> <br>
+— Sohma Hatsuharu (Fruits Basket)
