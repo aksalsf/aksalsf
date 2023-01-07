@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;You make me sick, you and your pathetic girly whining... You're not a MAN! You're just a little kitty-cat who's afraid to fight! Know what?! YOU CAN GO TO HELL! HAHAHAHAHA! UGH! (gets kicked by Kyo in the face)&quot;</em> <br>
-— Sohma Hatsuharu (Fruits Basket)
+<em>&quot;Even if this hero society comes crashing down… even if I rise to rule the underworld… that weight in my heart is never gonna go away. It’s why I hate everything. Every living, breathing thing just rubs me the wrong way. So why not destroy it all? Why not destroy everything?&quot;</em> <br>
+— Shigaraki Tomura (My Hero Academia)
