@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;They say if you change yourself, you'll change the world, but that's a complete lie. When people judge somebody, it becomes a fixed idea and an impression that lasts. A loner is forced to stay a loner. If you do your best at something and stand out, that'll only get used as fodder for criticism. Those are the rules of the Kingdom of Children.&quot;</em> <br>
-— Hachiman Hikigaya (Yahari Ore No Seishun Love Come Wa Machigatteiru)
+<em>&quot;Gohan, let it go. It is not a sing to fight for the right cause. There are those who words alone will not reach.&quot;</em> <br>
+— Android 16 (Dragon Ball Z)
