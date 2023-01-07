@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;Even if this hero society comes crashing down… even if I rise to rule the underworld… that weight in my heart is never gonna go away. It’s why I hate everything. Every living, breathing thing just rubs me the wrong way. So why not destroy it all? Why not destroy everything?&quot;</em> <br>
-— Shigaraki Tomura (My Hero Academia)
+<em>&quot;<em>commenting on Haruhi's naming of the SOS brigade</em> Haruhi's incomprehensible words settled the matter. Oh, joy. Just do whatever you want.&quot;</em> <br>
+— Kyon (The Melancholy of Haruhi Suzumiya)
