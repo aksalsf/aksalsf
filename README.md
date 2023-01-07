@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;Gohan, let it go. It is not a sing to fight for the right cause. There are those who words alone will not reach.&quot;</em> <br>
-— Android 16 (Dragon Ball Z)
+<em>&quot;The chosen one? I feel more like the frozen one.&quot;</em> <br>
+— Ash Ketchum (Pokémon)
