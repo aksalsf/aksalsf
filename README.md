@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;Pawns? Isn't that such an ugly term to use? We should call them the foundation for our futures. But it's a fact that they'll be sacrificed.&quot;</em> <br>
-— Sakamoto Yuuji (Baka to Test to Shoukanjuu)
+<em>&quot;Cheers, mate. No work, just chill. Cool, yeh!&quot;</em> <br>
+— Aksal
