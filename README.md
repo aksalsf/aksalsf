@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;Lives are never of equal value. There is always a ranking order.&quot;</em> <br>
-— Mako Fujisaki (Brynhildr in the Darkness)
+<em>&quot;Pawns? Isn't that such an ugly term to use? We should call them the foundation for our futures. But it's a fact that they'll be sacrificed.&quot;</em> <br>
+— Sakamoto Yuuji (Baka to Test to Shoukanjuu)
