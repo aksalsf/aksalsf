@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;The moment you find the courage to give up your life for someone... Would be the moment you understand love.&quot;</em> <br>
-— Kenshin Himura (Rurouni Kenshin)
+<em>&quot;Magic is anything you can think of. It can be felt in infinite ways... As light, as darkness, as red, as blue. It is living freely, together along side Fairy Tail.&quot;</em> <br>
+— Makarov Dreyar (Fairy Tail)
