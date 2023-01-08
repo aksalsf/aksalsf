@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;If you trip while running down a hallway, you'll get a nosebleed. If you trip in life, you'll cry.&quot;</em> <br>
-— Minori Kushieda (Toradora!)
+<em>&quot;Is it painful to be the person who waits? Or is it more painful to be the person who makes others wait? Either way, there's no need to wait anymore. That's what is most painful.&quot;</em> <br>
+— Takada (Aoi Bungaku Series)
