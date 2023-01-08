@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;Is it painful to be the person who waits? Or is it more painful to be the person who makes others wait? Either way, there's no need to wait anymore. That's what is most painful.&quot;</em> <br>
-— Takada (Aoi Bungaku Series)
+<em>&quot;Lives are never of equal value. There is always a ranking order.&quot;</em> <br>
+— Mako Fujisaki (Brynhildr in the Darkness)
