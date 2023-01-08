@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;Magic is anything you can think of. It can be felt in infinite ways... As light, as darkness, as red, as blue. It is living freely, together along side Fairy Tail.&quot;</em> <br>
-— Makarov Dreyar (Fairy Tail)
+<em>&quot;No, not yet, now that you've made me this serious. Regret as much as you damn well want!!&quot;</em> <br>
+— Toushirou Hitsugaya (Bleach)
