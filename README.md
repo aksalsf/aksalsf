@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;We humans can indeed lose again something we've lost already.&quot;</em> <br>
-— Kraft Lawrence (Spice and Wolf)
+<em>&quot;Is a reason nesessary? I don't know why you would kill someone. But as for saving someone... A logical mind isn't needed, right?&quot;</em> <br>
+— Shinichi Kudou (Detective Conan)
