@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;Cheers, mate. No work, just chill. Cool, yeh!&quot;</em> <br>
-— Aksal
+<em>&quot;A world where power is everything. A world where the weak are trampled on and crushed. That’s why I… prayed to get stronger. To be strong like him.&quot;</em> <br>
+— Hidetora Toujo (Beelzebub)
