@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;I’ll help you get back on your feet… You were dealt a bad hand, but you can atone for your deeds and start over. Because you’re a good person.&quot;</em> <br>
-— Keigo Takami (My Hero Academia)
+<em>&quot;There's no one who can live their whole life being completely uncorrupted.&quot;</em> <br>
+— Izaya Orihara (Durarara!!)
