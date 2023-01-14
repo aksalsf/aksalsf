@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;(About Sakura) Was she having fun in her little make-believe fantasy of true love? As for me, I have absolutely no reason to love her and likewise, I can see no reason why she would love me.&quot;</em> <br>
-— Sasuke Uchiha (Naruto Shippūden)
+<em>&quot;We humans can indeed lose again something we've lost already.&quot;</em> <br>
+— Kraft Lawrence (Spice and Wolf)
