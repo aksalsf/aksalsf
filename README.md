@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;Listen up, brats! Today’s defeat is the seed for tomorrow’s victory! We’ll rise up and show them! We don’t know the meaning of giving up!&quot;</em> <br>
-— Makarov Dreyar (Fairy Tail)
+<em>&quot;I’ll help you get back on your feet… You were dealt a bad hand, but you can atone for your deeds and start over. Because you’re a good person.&quot;</em> <br>
+— Keigo Takami (My Hero Academia)
