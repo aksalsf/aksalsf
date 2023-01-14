@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;There's no one who can live their whole life being completely uncorrupted.&quot;</em> <br>
-— Izaya Orihara (Durarara!!)
+<em>&quot;Justice and charity don't mix.&quot;</em> <br>
+— Myouri Unzen (Medaka Box)
