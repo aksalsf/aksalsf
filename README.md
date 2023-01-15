@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;A world where power is everything. A world where the weak are trampled on and crushed. That’s why I… prayed to get stronger. To be strong like him.&quot;</em> <br>
-— Hidetora Toujo (Beelzebub)
+<em>&quot;To master the bending disciplines you must first master discipline itself, but you have no interest in this so I have no interest in you.&quot;</em> <br>
+— Jeong Jeong (Avatar: The Last Airbender)
