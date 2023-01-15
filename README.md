@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;This brings us to number 278 of the 1,000 provisions you must observe. I hate carrots. Never even think about putting them in my food, you get it?&quot;</em> <br>
-— Excalibur (Soul Eater)
+<em>&quot;You should cry while you still can. When you get bigger, sometimes, you can't cry even if you have something you wanna cry about.&quot;</em> <br>
+— Okazaki Tomoya (CLANNAD)
