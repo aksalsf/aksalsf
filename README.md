@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;To master the bending disciplines you must first master discipline itself, but you have no interest in this so I have no interest in you.&quot;</em> <br>
-— Jeong Jeong (Avatar: The Last Airbender)
+<em>&quot;This brings us to number 278 of the 1,000 provisions you must observe. I hate carrots. Never even think about putting them in my food, you get it?&quot;</em> <br>
+— Excalibur (Soul Eater)
