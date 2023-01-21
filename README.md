@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;No one knows what the future holds in life.  We must take that endless bit of darkness and turn it to our advantage.&quot;</em> <br>
-— Higuchi Seitarou (Yojouhan Shinwa Taikei)
+<em>&quot;She's been like that ever since I bought a box of donuts and had one more than her.&quot;</em> <br>
+— Meme Oshino (Bakemonogatari)
