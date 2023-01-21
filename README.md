@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;There's no point in incapable people pushing themselves. You're better off calling for an expert in the field.&quot;</em> <br>
-— Hachiman Hikigaya (Yahari Ore No Seishun Love Come Wa Machigatteiru)
+<em>&quot;Those who are bound, are bound wherever they go. And those who are free, are always free. Whoever you serve and wherever you live, if they are your own choices, you are free.&quot;</em> <br>
+— Sanada Yukimura (Brave 10)
