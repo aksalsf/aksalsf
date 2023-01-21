@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;Tell me, are all you Saiyans so full of yourselves? Is this how you hide your incompetence? We androids will always be superior to your kind.&quot;</em> <br>
-— Android 17 (Dragon Ball Z)
+<em>&quot;No one knows what the future holds in life.  We must take that endless bit of darkness and turn it to our advantage.&quot;</em> <br>
+— Higuchi Seitarou (Yojouhan Shinwa Taikei)
