@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;Bare emotions tell the truth much eloquently than any justification.&quot;</em> <br>
-— Konan (Gekkou)
+<em>&quot;The weak have no rights or choices. Their only fate is to be relentlessly crushed by the strong!&quot;</em> <br>
+— Giyu Tomioka (Demon Slayer)
