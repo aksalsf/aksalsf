@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;[after Aang enters the ring] Do people really want to see TWO little girls fighting out here?&quot;</em> <br>
-— Toph Bei Fong (Avatar: The Last Airbender)
+<em>&quot;People cannot show each other their true feelings. Fear, suspicion, and resentment never subside.&quot;</em> <br>
+— Madara Uchiha (Naruto Shippuuden)
