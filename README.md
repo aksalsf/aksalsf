@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;Someday, my memories of her will fade. Her voice, her actions – I might forget them as well. But even then, I will always remember that I loved her.&quot;</em> <br>
-— Emiya Shirou (Fate/stay night)
+<em>&quot;When life changes to be harder, change yourself to be stronger.&quot;</em> <br>
+— Erza Scarlet (Fairy Tail)
