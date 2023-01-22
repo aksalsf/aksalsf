@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;When life changes to be harder, change yourself to be stronger.&quot;</em> <br>
-— Erza Scarlet (Fairy Tail)
+<em>&quot;Making a fuss won't fix anything.&quot;</em> <br>
+— Hak Son (Akatsuki no Yona)
