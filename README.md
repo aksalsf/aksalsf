@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;Inuyasha, after meeting you I renounced my postion as a shrine priestess. I became an ordinary woman. I longed to embrace you like this when I was alive...&quot;</em> <br>
-— Kikyo (Inuyasha)
+<em>&quot;But maybe life isn't about counting all the things you've lost.&quot;</em> <br>
+— Tsukamoto Tsukushi (Days TV)
