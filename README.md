@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;I wonder why it is, that people fall in love with others? I think that to seek out love even when you already have a nice family is being greedy. No matter how much you like another person, you can never be with that person forever... But I dislike that. I don't care if I have to throw away everything else. I just want you to look at me.&quot;</em> <br>
-— Aiko Tanaka (Oyasumi Punpun)
+<em>&quot;Inuyasha, after meeting you I renounced my postion as a shrine priestess. I became an ordinary woman. I longed to embrace you like this when I was alive...&quot;</em> <br>
+— Kikyo (Inuyasha)
