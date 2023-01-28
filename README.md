@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;But maybe life isn't about counting all the things you've lost.&quot;</em> <br>
-— Tsukamoto Tsukushi (Days TV)
+<em>&quot;A smiling, dependable, cool hero…That’s what I wanna be! That’s why I’m giving it everything. For everyone!&quot;</em> <br>
+— Izuku Midoriya (My Hero Academia)
