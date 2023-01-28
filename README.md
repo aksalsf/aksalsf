@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;The world offers up a choice to live or die. The survival of the fittest that's the only governing law this world recognizes.&quot;</em> <br>
-— Gai Tsutsugami (Guilty Crown)
+<em>&quot;I wonder why it is, that people fall in love with others? I think that to seek out love even when you already have a nice family is being greedy. No matter how much you like another person, you can never be with that person forever... But I dislike that. I don't care if I have to throw away everything else. I just want you to look at me.&quot;</em> <br>
+— Aiko Tanaka (Oyasumi Punpun)
