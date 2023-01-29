@@ -12,5 +12,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;When you entrust so much of your everyday life to those electronic devices, the argument that you aren't a cyborg isn't very convincing. To you, those portable terminals are already your second brain. Isn't that right? It can be said that the history of science is a history of the expansion of the human body's functionality, in other words, the history of man's cyberization. That's why it's a matter of degree.&quot;</em> <br>
-— Toyohisa Senguji (Psycho-Pass)
+<em>&quot;Even if I was someone, people couldn't comprehend me. And even if they could, they wouldn't be able to communicate it to those around them. I do not belong to the world. That is the world's limit, the boundary between the world and the self.&quot;</em> <br>
+— Ergo Proxy (Ergo Proxy)
