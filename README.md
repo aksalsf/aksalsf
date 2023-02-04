@@ -13,5 +13,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;For the time being, all an idiot like me can do is to keep moving forward...&quot;</em> <br>
-— Rin Okumura (Ao no Exorcist)
+<em>&quot;Even death can't cure idiocy.&quot;</em> <br>
+— Yui (Angel Beats!)
