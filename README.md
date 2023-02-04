@@ -13,5 +13,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;The Devil's finest trick is to persuade you that he does not exist.&quot;</em> <br>
-— Hachiman Hikigaya (Yahari Ore no Seishun Love Come wa Machigatteiru. Zoku)
+<em>&quot;Accepting something is easier said than done.&quot;</em> <br>
+— Togashi Yuuta (Chuunibyou Demo Koi Ga Shitai!)
