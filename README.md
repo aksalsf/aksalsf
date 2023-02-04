@@ -13,5 +13,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;Accepting something is easier said than done.&quot;</em> <br>
-— Togashi Yuuta (Chuunibyou Demo Koi Ga Shitai!)
+<em>&quot;Is there a limit to how much you can love somebody? No matter how much I hurt him or get hurt by him, I find myself far from hating him, actually hoping that those wounds will scar, like burns...because then you can never forget me.&quot;</em> <br>
+— Hiroki Kamijou (Junjou Romantica)
