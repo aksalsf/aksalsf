@@ -13,5 +13,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;Let´s see how many people you can kill with the power of love.&quot;</em> <br>
-— Sanetoshi Watase (Mawaru Penguindrum)
+<em>&quot;To have a name. To remove one layer of the unknown. To be painted in reality. If you have your feet firmly planted to the ground, you may have a chance to pull someone down.&quot;</em> <br>
+— Makoto Niwa (Denpa Onna to Seishun Otoko)
