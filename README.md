@@ -13,5 +13,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;If you stick to a &quot;lie&quot;, it'll eventually become the &quot;truth&quot;.&quot;</em> <br>
-— Ciel Phantomhive (Kuroshitsuji)
+<em>&quot;&quot;If I do this, I can stop the rebellion”, “if I do that, I can stop the rebellion”... Open your eyes, princess! Your zealous idealism disgusts me! Ideals can only be spoken by those powerful enough to carry them out. And that excludes you!&quot;</em> <br>
+— Crocodile (One Piece)
