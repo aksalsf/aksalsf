@@ -13,5 +13,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;Sometimes I do feel like I’m a failure. Like there’s no hope for me. But even so, I’m not gonna give up. Ever!&quot;</em> <br>
-— Izuku Midoriya (My Hero Academia)
+<em>&quot;I've never seen a man with a screw sticking out of his head before. I don't know how I'm supposed to deal with a guy like that!&quot;</em> <br>
+— Crona (Soul Eater)
