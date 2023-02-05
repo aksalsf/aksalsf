@@ -13,5 +13,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;I want to break up while I can still say I love you.&quot;</em> <br>
-— Chihiro Shindou (Ef - A Fairy Tale Of The Two)
+<em>&quot;The way you perceive yourself doesn't match the way others perceive you. Those who work hard despite that discrepancy shine brighter than anyone else!&quot;</em> <br>
+— Kō Ōsaki (Shōnen Hollywood - Holly Stage for 49)
