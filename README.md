@@ -13,5 +13,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;I've never seen a man with a screw sticking out of his head before. I don't know how I'm supposed to deal with a guy like that!&quot;</em> <br>
-— Crona (Soul Eater)
+<em>&quot;I want to break up while I can still say I love you.&quot;</em> <br>
+— Chihiro Shindou (Ef - A Fairy Tale Of The Two)
