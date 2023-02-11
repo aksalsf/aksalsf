@@ -13,5 +13,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;This isn't divine jugdement. It's the work of some childish killer who's playing at divine retribution. That's all.&quot;</em> <br>
-— L Lawliet (Death Note)
+<em>&quot;Sadistic? I don't mind you calling me that. If you don't want to get hurt, don't attack me when I say not to.&quot;</em> <br>
+— Inoue Orihime (Bleach)
