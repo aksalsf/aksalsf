@@ -13,5 +13,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;A smile is a seed of happiness. Anything can be made with it.&quot;</em> <br>
-— Kai (Neo Angelique Abyss)
+<em>&quot;This isn't divine jugdement. It's the work of some childish killer who's playing at divine retribution. That's all.&quot;</em> <br>
+— L Lawliet (Death Note)
