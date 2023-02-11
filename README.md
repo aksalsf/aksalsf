@@ -13,5 +13,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;Whatever you lose, you'll find it again, but what you throw away you'll never get it back.&quot;</em> <br>
-— Kenshin Himura (Rurouni Kenshin)
+<em>&quot;If you're felling like there's nowhere you belong... That you're trapped in a small world. It's those feelings that drive us beyond our world.&quot;</em> <br>
+— Reiji Nitta (Uchuu Kyoudai)
