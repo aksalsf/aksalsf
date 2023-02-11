@@ -13,5 +13,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;If you're felling like there's nowhere you belong... That you're trapped in a small world. It's those feelings that drive us beyond our world.&quot;</em> <br>
-— Reiji Nitta (Uchuu Kyoudai)
+<em>&quot;It doesn't matter if we're wrong...because every time we go wrong, we'll continue to look for the right answer.&quot;</em> <br>
+— Hachiman Hikigaya (Yahari Ore no Seishun Love Come wa Machigatteiru. Zoku)
