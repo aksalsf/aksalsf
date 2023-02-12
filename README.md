@@ -13,5 +13,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;You guys are so small...&quot;</em> <br>
-— Hao Asakura (Shaman King)
+<em>&quot;Now you know what fear does to you. In the face of death you thought.&quot;</em> <br>
+— Kasper Hekmatyar (Jormungand)
