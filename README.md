@@ -13,5 +13,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;Shut up. Quit shouting like you're king of the figgin' world. You're making my ears bleed you bastard. Now I've got some common sense for you... If I wore a tie, it wouldn't change who I am. If I had no piercings, it wouldn't mean I'm nice and if my hair wasn't black, it wouldn't stop me from kicking your ass! Who do you think you are anyway? You think you're God huh?! What's the matter?! Run out of things to say? No more advice?! You're not so hot anymore right now are you?! (Black Haru yelling at student council president for shouting at Momiji)&quot;</em> <br>
-— Sohma Hatsuharu (Fruits Basket)
+<em>&quot;Sometimes I think the whole world is conspiring to destroy my house.&quot;</em> <br>
+— Sohma Shigure (Fruits Basket)
