@@ -13,5 +13,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;How can androids have babies?&quot;</em> <br>
-— Son Goku (Dragon Ball)
+<em>&quot;There is no guarantee that your dreams are just good ones.&quot;</em> <br>
+— Haji (Blood+)
