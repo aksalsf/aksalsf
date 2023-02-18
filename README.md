@@ -13,5 +13,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;Your guilt will be your past and that will be your God.&quot;</em> <br>
-— Izaya Orihara (Durarara!!)
+<em>&quot;How can androids have babies?&quot;</em> <br>
+— Son Goku (Dragon Ball)
