@@ -13,5 +13,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;There is no guarantee that your dreams are just good ones.&quot;</em> <br>
-— Haji (Blood+)
+<em>&quot;All day, I've had to sit in the stench of cigarettes and alcohol. Every single person I met today was drinking and smoking. If they weren't, they were doing drugs. Well, except for Wayne. I've... had enough of it.&quot;</em> <br>
+— Annie Leonhardt (Shingeki no Kyojin: Lost Girls)
