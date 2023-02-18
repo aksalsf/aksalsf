@@ -13,5 +13,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;If a person you love doesn't love you back, you're worthless. That's what I always told myself.&quot;</em> <br>
-— Kaga Kouko (Golden Time)
+<em>&quot;Human memories aren't reliable. Your brain will add something or just glorify it, memories make you believe what happened was better than it actually was.&quot;</em> <br>
+— Motoharu Yano (Bokura ga Ita)
