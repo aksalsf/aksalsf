@@ -13,5 +13,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;I don't want to see any more things that've changed! It's exhausting!&quot;</em> <br>
-— Hikari Sakishima (Nagi no Asukara)
+<em>&quot;We're all lost... That's why we're sad.&quot;</em> <br>
+— Van Hohenheim (Fullmetal Alchemist)
