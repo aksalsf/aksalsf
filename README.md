@@ -13,5 +13,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;Having feelings for someone just brings sorrow to someone else. Someone always gets sacrificed and suffers. If this is what it means to fall in love, then falling in love is terrible.&quot;</em> <br>
-— Hikari Sakishima (Nagi no Asukara)
+<em>&quot;When someone does something nice for you… shut up and accept it!&quot;</em> <br>
+— Tsugumi (Guilty Crown)
