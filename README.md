@@ -13,5 +13,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;Every sword belongs in its sheath. Go back to the sheath your master holds. Go back to Griffith.&quot;</em> <br>
-— Guts (Berserk)
+<em>&quot;Ice can even stop the time of life itself. So, you'll never be able to catch up, for eternity. You'll always be stuck there, staring at the fairy's tail.&quot;</em> <br>
+— Gray Fullbuster (Fairy Tail)
