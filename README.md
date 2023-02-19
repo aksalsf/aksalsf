@@ -13,5 +13,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;We're all lost... That's why we're sad.&quot;</em> <br>
-— Van Hohenheim (Fullmetal Alchemist)
+<em>&quot;Every sword belongs in its sheath. Go back to the sheath your master holds. Go back to Griffith.&quot;</em> <br>
+— Guts (Berserk)
