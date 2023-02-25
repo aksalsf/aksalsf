@@ -13,5 +13,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;You're either an open pervert or a closet pervert!&quot;</em> <br>
-— Naotsugu (Log Horizon)
+<em>&quot;My name is Duck. Yes, like the bird. Take it up with my parents. They never loved me!&quot;</em> <br>
+— Ahiru Arima (Princess Tutu)
