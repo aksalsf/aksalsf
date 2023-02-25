@@ -13,5 +13,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;Don't be too negative. You haven't become ashes just yet. You have your flesh and blood, and your bones are supporting you.&quot;</em> <br>
-— Sakurako Kujō (Sakurako-san no Ashioto ni wa Shitai ga Umatteiru)
+<em>&quot;If you don't risk your life, you can't create a future. Right?&quot;</em> <br>
+— Monkey D. Luffy (One Piece)
