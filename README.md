@@ -13,5 +13,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;If you don't risk your life, you can't create a future. Right?&quot;</em> <br>
-— Monkey D. Luffy (One Piece)
+<em>&quot;Honest feelings can sometimes lead to cruel endings.&quot;</em> <br>
+— Gintoki Sakata (Gintama)
