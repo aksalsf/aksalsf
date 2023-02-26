@@ -13,8 +13,7 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;It's often said, &quot;People who are similar can be called friends&quot;, right? You haven't been making a good life for yourself, have you? Well, I guess I'm no better.. People don't try to make a life that they can't be proud of... They have the intention of staying on the straight path, but out of blue, they're in the dirt. But, even so, with heart and soul you try to brake through. There will be a day, that even dirt will dry and fall off.
+<em>&quot;In the end, mustering the courage to confess is up to the people
 
-(Gintoki to Catherine
-&quot;Gintama chapter 24, page 19&quot;)&quot;</em> <br>
-— Gintoki Sakata (Gintama)
+concerned.&quot;</em> <br>
+— Maiko Shuu (Nisekoi)
