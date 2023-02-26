@@ -13,5 +13,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;It's not like we lost anything when there was nothing between us to start with. We could never really be equals. I've always been alone.&quot;</em> <br>
-— Izumiko Suzuhara (RDG: Red Data Girl)
+<em>&quot;We are searching for a place where we can live our lives in peaceful days. No wars, no stealing; a place that isn’t run by fear; a place where people can live, and actually trust other human beings.&quot;</em> <br>
+— Vash the Stampede (Trigun)
