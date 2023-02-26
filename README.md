@@ -13,7 +13,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;In the end, mustering the courage to confess is up to the people
-
-concerned.&quot;</em> <br>
-— Maiko Shuu (Nisekoi)
+<em>&quot;The only thing waiting for you outside is a world of death.&quot;</em> <br>
+— Re-L Mayer (Ergo Proxy)
