@@ -13,5 +13,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;A strong person is not the one who doesn't cry. A strong person is the one who cries and sheds tears for a moment, then gets up and fights again.&quot;</em> <br>
-— Erza Scarlet (Fairy Tail)
+<em>&quot;Angels banished from heaven have no choice but to become devils.&quot;</em> <br>
+— Vicious (Cowboy Bebop)
