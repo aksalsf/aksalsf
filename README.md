@@ -13,5 +13,5 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
 <img src="/achievement-metrics.svg" alt="Achievement Metrics">
-<em>&quot;The only thing waiting for you outside is a world of death.&quot;</em> <br>
-— Re-L Mayer (Ergo Proxy)
+<em>&quot;It's not like we lost anything when there was nothing between us to start with. We could never really be equals. I've always been alone.&quot;</em> <br>
+— Izumiko Suzuhara (RDG: Red Data Girl)
