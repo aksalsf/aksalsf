@@ -3,7 +3,7 @@ name: Build Readme
 on:
   workflow_dispatch:
   schedule:
-    - cron:  '0 1,5,6,9,11,13,16,21 * * *'
+    - cron:  '0 5,9,13,21 * * *'
 
 jobs:
   build:
