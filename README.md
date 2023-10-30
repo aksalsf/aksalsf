@@ -8,7 +8,13 @@ Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgnit
 - <a href="https://aksalsf.medium.com/panduan-instalasi-proyek-laravel-dengan-laradock-c90a021b42?source=rss-bd0cf8323376------2">Panduan Instalasi Proyek Laravel dengan Laradock</a>
 - <a href="https://aksalsf.medium.com/defaultprops-react-component-property-yang-sering-saya-remehkan-6fca5b05cf8a?source=rss-bd0cf8323376------2">defaultProps: React Component Property yang Sering Saya Remehkan</a>
 - <a href="https://aksalsf.medium.com/bagaimana-saya-mendapatkan-lencana-verified-untuk-commit-saya-di-github-4093994452e9?source=rss-bd0cf8323376------2">Bagaimana Saya Mendapatkan Lencana Verified untuk Commit Saya di GitHub</a>
-<p align="center"><img src="https://raw.githubusercontent.com/aksalsf/aksalsf/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="github contribution grid snake animation"><img src="https://raw.githubusercontent.com/aksalsf/aksalsf/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="github contribution grid snake animation"></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aksalsf/aksalsf/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aksalsf/aksalsf/output/github-snake.svg" />
+    <img alt="github-snake" src="github-snake.svg" />
+  </picture>
+</p>
 <img src="/skills-metrics.svg" alt="Skills Metrics">
 <img src="/habits-metrics.svg" alt="Habits Metrics">
 <img src="/social-metrics.svg" alt="Social Metrics">
