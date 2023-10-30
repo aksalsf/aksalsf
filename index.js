@@ -14,7 +14,7 @@ const TIMEZONE_OFFSET = 7;
 
   const { today, hour } = getCurrentTime();
   const greetings = generateGreetings(hour);
-  const snake = `![github contribution grid snake animation](https://raw.githubusercontent.com/aksalsf/aksalsf/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/aksalsf/aksalsf/output/github-contribution-grid-snake.svg#gh-light-mode-only)`;
+  const snake = `![github contribution grid snake animation](https://raw.githubusercontent.com/aksalsf/aksalsf/output/github-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/aksalsf/aksalsf/output/github-snake.svg#gh-light-mode-only)`;
 
   const mediumPosts = await fetchMyMediumPosts(MEDIUM_RSS_URL)
       .then(response => response.items
