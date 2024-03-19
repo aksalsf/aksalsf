@@ -1,10 +1,11 @@
-### Good morning, it is. 😸
+### Good afternoon 👋
 Heya 👋 I'm Aksal. I'm a software engineer from 🇮🇩 Indonesia.
 
 My code is like a girl (perfect and beautiful), so, I'm always found that only me who can understand her. Wkwk, just kidding.
 
 Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgniter). A Windows fanboy until I met Linux 😆
 ### Hey there, down here 👋 Want to read something cool?
+- <a href="https://aksalsf.medium.com/handle-api-request-download-file-csv-dengan-rtk-query-8bdccde6f0e4?source=rss-bd0cf8323376------2">Handle API Request Download File CSV dengan RTK Query</a>
 - <a href="https://aksalsf.medium.com/panduan-instalasi-proyek-laravel-dengan-laradock-c90a021b42?source=rss-bd0cf8323376------2">Panduan Instalasi Proyek Laravel dengan Laradock</a>
 - <a href="https://aksalsf.medium.com/defaultprops-react-component-property-yang-sering-saya-remehkan-6fca5b05cf8a?source=rss-bd0cf8323376------2">defaultProps: React Component Property yang Sering Saya Remehkan</a>
 - <a href="https://aksalsf.medium.com/bagaimana-saya-mendapatkan-lencana-verified-untuk-commit-saya-di-github-4093994452e9?source=rss-bd0cf8323376------2">Bagaimana Saya Mendapatkan Lencana Verified untuk Commit Saya di GitHub</a>
