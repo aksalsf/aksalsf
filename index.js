@@ -5,9 +5,7 @@ const md = require("markdown-it")({
   breaks: false, // Convert '\n' in paragraphs into <br>
   linkify: true, // Autoconvert URL-like text to links
 });
-const { parse } = require("rss-to-json");
 
-const MEDIUM_RSS_URL = "https://medium.com/feed/@aksalsf";
 const TIMEZONE_OFFSET = 7;
 
 (async () => {
@@ -16,21 +14,12 @@ const TIMEZONE_OFFSET = 7;
   const greetings = generateGreetings(hour);
   const snake = `![github contribution grid snake animation](https://raw.githubusercontent.com/aksalsf/aksalsf/output/github-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/aksalsf/aksalsf/output/github-snake.svg#gh-light-mode-only)`;
 
-  const mediumPosts = await fetchMyMediumPosts(MEDIUM_RSS_URL)
-      .then(response => response.items
-          .slice(0, 6)
-          ?.map(post => (`- [${post?.title}](${post.link})`))
-          .join("\n")
-      );
-
   const text = `### ${greetings}
     Heya 👋 I'm Aksal. I'm a software engineer from 🇮🇩 Indonesia.
 
     My code is like a girl (perfect and beautiful), so, I'm always found that only me who can understand her. Wkwk, just kidding.
 
     Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgniter). A Windows fanboy until I met Linux 😆
-    ### Hey there, down here 👋 Want to read something cool?
-    ${mediumPosts}
     <p align="center">${snake}</p>
     ![Skills Metrics](/skills-metrics.svg)
     ![Habits Metrics](/habits-metrics.svg)
@@ -93,8 +82,4 @@ function generateFile(contents) {
     if (err) return console.log(`⛔ [FAILED]: ${err}`);
     console.log("✅ [SUCCESS]: README.md has been generated.");
   });
-}
-
-async function fetchMyMediumPosts(rssUrl) {
-  return await parse(rssUrl).then(rss => rss)
 }
