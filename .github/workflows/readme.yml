@@ -24,7 +24,5 @@ jobs:
       run: |-
         git add .
         git diff
-        git config --global user.email "aksalsf@users.noreply.github.com"
-        git config --global user.name "Aksal Syah Falah"
         git commit -m "docs(readme): 📝 update tips and greeting" -a || echo "No changes to commit"
         git push
