@@ -22,6 +22,8 @@ jobs:
         npm run build
     - name: Commit and push if changed
       run: |-
+        git config user.name "github-actions[bot]"
+        git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
         git add .
         git diff
         git commit -m "docs(readme): 📝 update tips and greeting" -a || echo "No changes to commit"
