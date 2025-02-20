@@ -19,7 +19,7 @@ const TIMEZONE_OFFSET = 7;
 
     My code is like a girl (perfect and beautiful), so, I'm always found that only me who can understand her. Wkwk, just kidding.
 
-    Mostly I code in Javascript (React, Vue, TypeScript) and PHP (Laravel, CodeIgniter). A Windows fanboy until I met Linux 😆
+    I code in TypeScript (React, Vue, Next.js, AdonisJS) and PHP (Laravel, CodeIgniter). A Windows fanboy until I met Linux 😆
     <p align="center">${snake}</p>
     ![Skills Metrics](/skills-metrics.svg)
     ![Habits Metrics](/habits-metrics.svg)
@@ -55,7 +55,7 @@ function isWeekend(date = getCurrentTime().today) {
 }
 
 function generateGreetings(time) {
-  const goodMorning = "Good morning, it is. 😸";
+  const goodMorning = "Ohayou-gozaimasu! 😸";
   const goodAfternoon = "Good afternoon 👋";
   const goodEvening = "Good evening 👋";
   const goodNight = "Nite nite 😴";
