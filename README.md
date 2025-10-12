@@ -1,4 +1,4 @@
-### Happy weekend 🥰
+### Ohayou-gozaimasu! 😸
 Heya 👋 I'm Aksal. I'm a software engineer from 🇮🇩 Indonesia.
 
 My code is like a girl (perfect and beautiful), so, I'm always found that only me who can understand her. Wkwk, just kidding.
