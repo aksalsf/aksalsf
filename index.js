@@ -1,4 +1,3 @@
-const axios = require("axios");
 const fs = require("fs");
 const md = require("markdown-it")({
   html: true, // Enable HTML tags in source
@@ -17,14 +16,10 @@ const TIMEZONE_OFFSET = 7;
   const text = `### ${greetings}
     Heya 👋 I'm Aksal. I'm a software engineer from 🇮🇩 Indonesia.
 
-    My code is like a girl (perfect and beautiful), so, I'm always found that only me who can understand her. Wkwk, just kidding.
+    I speak Bahasa Indonesia, English, TypeScript (React, Vue, Next.js, AdonisJS) and PHP (Laravel, CodeIgniter).
 
-    I code in TypeScript (React, Vue, Next.js, AdonisJS) and PHP (Laravel, CodeIgniter). A Windows fanboy until I met Linux 😆
+    A Windows fanboy until I met Linux 😆
     <p align="center">${snake}</p>
-    ![Skills Metrics](/skills-metrics.svg)
-    ![Habits Metrics](/habits-metrics.svg)
-    ![Social Metrics](/social-metrics.svg)
-    ![Achievement Metrics](/achievement-metrics.svg)
   `;
 
   const content = md.renderInline(text);
