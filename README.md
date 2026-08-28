@@ -1,4 +1,4 @@
-### Nite nite 😴
+### Good afternoon 👋
 Heya 👋 I'm Aksal. I'm a software engineer from 🇮🇩 Indonesia.
 
 I speak Bahasa Indonesia, English, TypeScript (React, Vue, Next.js, AdonisJS) and PHP (Laravel, CodeIgniter).
